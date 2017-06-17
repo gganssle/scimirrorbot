@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# work
-date >> /home/ubuntu/scimirrorbot/logs/test.log
+# init
+PUSHNO=$(( ( RANDOM % 13 ) ))
 
 # authenticate
 eval $(ssh-agent -s)
@@ -9,6 +9,15 @@ ssh-add /home/ubuntu/.ssh/scimirrorbot-git
 
 # push
 cd /home/ubuntu/scimirrorbot/
-git add *
-git commit -m '$date'
-git push origin master
+
+if [ $PUSHNO = 0 ]; then
+	echo zero
+else
+	for i in `seq 0 $PUSHNO`
+	do
+		date >> /home/ubuntu/scimirrorbot/logs/date.log
+		git add *
+		git commit -m '$date'
+		git push origin master
+	done
+fi
