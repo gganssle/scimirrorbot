@@ -3,6 +3,9 @@
 # init
 PUSHNO=$(( ( RANDOM % 13 ) ))
 
+# tweet
+node /home/ubunt/scimirrorbot/twitter_bot/bot.js
+
 # authenticate
 eval $(ssh-agent -s)
 ssh-add /home/ubuntu/.ssh/scimirrorbot-git
