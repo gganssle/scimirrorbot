@@ -4,6 +4,7 @@
 PUSHNO=$(( ( RANDOM % 13 ) ))
 
 # tweet
+cd /home/ubuntu/scimirrorbot/twitter_bot/
 node /home/ubunt/scimirrorbot/twitter_bot/bot.js
 
 # authenticate
