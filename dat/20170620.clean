@@ -258,3 +258,338 @@ OH YES! I just got my first draft #AI trained for the #MachineLearning Leading E
 Polling places temporarily flatten the socio-economic hierarchy of their attendees. Meet someone outside your spher… 
 I'm registered for the Paris Subsurface Hackathon!  You should be, too.  via @Eventbrite
 Agile asked me to guest blog! Read it. 
+Reminder: though at seismic resolution well logs seem like rock properties, they aren't. Most well logs, too, are remote sensing experiments
+RT @undrsmpldrdio: We've got @tdhopper on the show this week talking about #DataScience, net security, and #MachineLearning. 
+Iced #coffee lovers, put grounds in French press. Fill w water. Steep 24 hrs. Press. Yum. 😆 
+@MichaelW2013 Please message me your email address. Thanks!
+@MichaelW2013 I'd love the opportunity to work on an ML hackathon of sorts with you. Let's set something up!
+RT @undrsmpldrdio: .@DavidHolmesUK joins us on the show this week for an open discussion (get it?). He's the man! Listen here: 
+The new p2.16xlarge @awscloud instances have about 40,000 GPU cores. W @LuaLang + @torchml I'm about to process the pants off of some data
+I was just trying to vizualize life prior to the discovery of calculus. It's astounding how much we do is dependent on #Newton and #Leibniz
+Success! Check out this low frequency density model! Notice the stratigraphically consistent variations in structur… 
+Spent 20 frustrated min trying to clip off NaN velocity model values until I realized it was food on my screen. Good thing I got that PhD.
+@a_gruber Ah ha! I finally found you on Twitter! I look forward to my vicarious bike adventures.
+To get the Madagascar @ThePSF API to work:
+
+./configure API=Python
+export PYTHONPATH="$RSFROOT/lib:$PYTHONPATH"
+
+and
+
+import rsf
+import m8r
+Oops, our calculations were wrong last night. Must have been all that excitement. Have some corrections: 
+This evening we had a discussion about rocket-motorcycle propelling a human over the MS River. It got out of hand.… 
+#OMG. I'm #TotesEmosh over this #painting. It's my inpainted well log on 3D seismic. Now to build a radial basis fu… 
+Speaking of which, do you like the roll cage I modeled for my dune buggy? If not, why? Srsly asking. I know nothing… 
+#3Dmodel at realistic scale in #VirtualReality: model a meterstick, then hold a real one between your controllers and adjust VR % scale
+I'm excited to see Dr. Zhang's presentation on well log interpolation by predictive painting at @SEGAnnualMtg! 
+You should see how nervous the staff gets when I walk into a China shop. #getyourhandsdirty 
+RT @WIRED: A surprising number of STEM professionals compete in long, hard, miserable athletic endeavors. Why?  
+Pro tip for breaking stuck #bolts  torqued over 1,000 ft.lbs.: lots of acetylene torch, lots of penetrating oil, 15… 
+.@google taught me about object oriented #fashion while I designed an LED dress. You can do it too!… 
+RT @undrsmpldrdio: The new episode is out! It's silly and weird, but we discuss a couple of interesting current events you must know. 
+Here's a picture of my pyramid 3D data which has been predictively painted. Yeah! I've got that #FridayFeeling 
+@BonnieP75512789 welcome to Twitter!
+Check out this useful hex color blender: 
+
+I bet @My_Carta has one written in #Python already.
+Have a handy MIG welding settings spreadsheet I built (thanks 4 the data, @MillerWelds):  
+@seis_matters @kwinkunks I wonder what Arthur C. Clarke would have to say about that #witchcraft comment... 
+BTW you can download this synthetic dataset (and the @JuliaLanguage script used to create it) here 
+Here's a 3D seismic volume with horizons autopicked* using the relative age attribute. *w/o human interpretation 
+Fiddling with three phase 480v seems to make one foolishly less scared of one phase 240v #NotSafe #GetYourHandsDirty 
+@leouieda a 57 horsepower air cooled VW engine dune buggy. But if I find spare rocket engines somewhere, I'll strap em on!
+Within a few months this beauty will be a dune buggy. #getyourhandsdirty 
+YES! Teapot Dome predicted crossline dip volume and associated #seismic #data.
+Thanks RMOTC and US Dept of @Energy 
+Conclusion from @soylent experiment: we humans (err ...Americans ...southerners) over-utilize food as a source of entertainment. #FoodIsFuel
+Eureka! After heavy FX #deconvolution and spatial AGC the relative age attribute is becoming more realistic. Onward! 
+@kwinkunks I'm very excited to see the rainbow bot in action. I hope it'll be open, so we can all play.
+@kwinkunks Madagascar's only got 12 colorbars. They're all shameful.
+Holy predicted dip section! It's my first try at using Dr. Sergey Fomel's #predictive #painting algorithm on 2D data 
+RT @undrsmpldrdio: Snuggle up with @JesperDramsch, @kwinkunks, and @GrahamGanssle as we talk #hygge+#geophysics  htt…
+My new autology experiment: don't eat any food for a week, only @soylent. Measure energy levels. #human #biology 
+Hey it's almost September! Has anyone heard back about their @NASA astronaut application yet?
+What is life? Why is life?
+
+The answers are in Nick Lane's "The Vital Question". It is absolutely fascinating. #biochemistry #bioenergetics
+Hey #Parents: Do you like Common Core #math? My hour's worth of tinkering suggests it's really quite #elegant. @CommonCores #commoncore
+This is an amazingly complete representation of a #fourier transform. Thanks @Wikingenieria for a brilliant graphic 
+RT @undrsmpldrdio: It's just @kwinkunks and @GrahamGanssle on the air this wk discussing what's on the horizon  
+Hey @Astro_Wheels, are the docking latches which interface with IDA2 #hydraulically or #electrically actuated? #askNASA
+RT @undrsmpldrdio: @kwinkunks #triathlon  also today at #Rio2016 . I prepared w a nice long bike at 5am. I ❤ #spelunking in the pain cave.
+Want a fast, free AVO inverter which operates on #commercial sized #seismic data? No problemo: 
+Hey #tea snobs (and all #brits) what's your favorite cup? I'm a @bigelowtea English Teatime fan. 
+Is your life too #safe? Do you need more #explosions and #speed? Check out my first #crowdfunding experiment: 
+Well, not quite linearly. But close enough to encourage me to build a honking big speaker and crank it up to 11.
+Admittedly, per my calculations, according to @JohnDCook, the annoyance is only linearly dependent on the loudness. 
+Speaking of unnecessarily loud speakers, check out this gem from @JohnDCook: 
+Some friends need a very loud speaker. I want to build a 6 ft diameter behemoth using a Mardi Gras float as a soundbox. Let's math it out.
+RT @undrsmpldrdio: This week @kwinkunks and @grahamganssle explore why @seis_matters. Check out the episode at 
+RT @seis_matters: So...*cough*....my 'turn' on @undrsmpldrdio can be sampled here:  Ta for the invite @GrahamGanssl…
+RT @seis_matters: 30 mins til I'm on @undrsmpldrdio with @kwinkunks &amp; @GrahamGanssle. Listen here:  #geology #roc…
+RT @seis_matters: Likely bored at 0800 Austin time tmrw? Listen to me chat to @kwinkunks &amp; @GrahamGanssle on @undrsmpldrdio!!! Click &gt; 
+Thanks for having us, #barcampnola9. I can't wait for next year. 
+Are you in #STEM? Take @JBYoder's survey to quantify #LGBTQ participation and discrimination in #STEM. Find it here: 
+RT @undrsmpldrdio: .@maitri is on UR this week! We talk #womenintech, Gutenberg, and exploration. Listen in:  
+If you've not yet listened to @IanMcNultyNOLA's pieces on @WWNO, do it now. He offers beautiful cultural analysis through local dinning.
+Sometimes you've just got to take a break from #programming and build something #physical. #LearnSomethingNew 
+RT @maitri: Just got off the air with @GrahamGanssle and @kwinkunks for Ep 17 of @undrsmpldrdio. Talked energy, SEG women's network and Gut…
+RT @undrsmpldrdio: This week technology sucks less on #UndersampledRadio as we speak to @gerardjgorman. Listen in at 
+#UndersampledRadio is now @undrsmpldrdio! Visit our new site to download episodes:  
+Thanks @SpaceOtterIn for an awesome #BarCampNola9!
+At @AlonShaya's place for lunch with the #BarCampNola9 crew.
+Watching a talk on #jedi mind tricks at #barcampnola9 !
+Hanging out with @DavidkHoltman, the owner of @RDDesignLa, at #barcampnola9 
+All of the important elements are included here at #barcampnola9 
+The stars of #nofun #nola hanging out after Eric's talk at #barcampnola9 
+RT @RDDesignLa: Listening to @GrahamGanssle talk about things I have no concept of...#BarCampNola9 
+Flynn talking about #goats at #barcampnola9 
+Kicking off #barcampnola9! 
+Are you a #workaholic if @google automatically suggests alternative routes to work on a Saturday? #askingforafriend
+If you can't make it to @barcampnola this weekend you can check out my #parallel mini #presentation here instead: 
+@gerardjgorman Looking forward to our conversation on #UndersampledRadio this week!
+Thanks to @IBMWatson, folks can now zone out fully during #conference #calls: 
+Come learn about @rowancockett's cool toys on #UndersampledRadio this week, @kwinkunks!  
+Come see my #profit through #parallelization talk at @barcampnola next next weekend! 
+I've realized I have about 20 TB of storage in my downtown office just now. Do you think that's a lot? #BigData(?)
+#WeThePeople (@kwinkunks and I) declare that #UndersampledRadio has a new episode out.   
+If you're playing with #data manipulation using @htcvive in @unity3d I want to chat! Hit me up. #VirtualReality #DataScience
+Are you going to @barcampnola? You should be.
+Kaboom goes the mud volcano! Join @kwinkunks, @MarkTingay, and I on #UndersampledRadio:  
+Inverting linear systems is so much cooler than sleeping in on a #SundayMorning
+@geo_leeman: Yeah man. I'm operating in your domain today. Hardware is righteous.
+Taking a breath of fresh air today: we're playing with #rocks under the #microscope instead of on the #computer! 
+#Computer #visualizations are pretty, but there's no substitute for a back-of-the-napkin #brainstorm 
+Do you guys see the #world laid out in front of you as a vast #sea of #inverse problems?
+I had a great time learning about #VirtualReality with the @htcvive yesterday! It'll be a paradigm shift in data viz 
+I assert in its one dimensional limit, with a convolutional modeler, full waveform inversion's equivalent to impedance inversion. Rebuttals?
+#UndersampledRadio gets #magical today as @kwinkunks, @leouieda, and I discuss open sorcery.  
+RT @RakeshAgrawal: Reading something that's written for SEO is worst.
+Today on #UndersampledRadio @kwinkunks and I chat with master of disaster @mikamckinnon.  
+Winning races. Representing @agilegeo's seismic modeling software Modelr. 
+Have I totally lost it? I just wrote a program to analyze @SmoothieKing's nutrition facts. 
+Today on #UndersampledRadio @kwinkunks, #superhero @eldfjallakoku, and I eat volcano cakes  
+@leouieda The other direction. For viz I let PyCall (Julia package) handle Python requests. Use PyPlot in IJulia for hassle free usability
+@leouieda You got it. We write all of our commercial backend stuff in Julia or C variants. Lots of visualization whathaveyous in Python.
+@leouieda @JuliaLanguage Do you like the power of Python? Julia's way faster. Not that it matters for a tutorial, but you get the point.
+Some inverse problems are hard. Like NP-hard. Srsly. Look at my new experiment to simplify full waveform inversion: 
+@eprosenthal unfortunately no one has built a USB type C keychain charger yet, hence my new key arrangement
+#lifehack: never forget your #cellphone charger. 
+RT @geo_leeman: I haven't had this much fun in awhile. Surprise @dontpanicgeo with @kwinkunks and @GrahamGanssle! 
+RT @dontpanicgeo: Surprise! This week we have an early co-release with the folks over at Undersampled! @kwinkunks @GrahamGanssle 
+@mikamckinnon Hey Mika! @kwinkunks and I would love to have you on our podcast, Undersampled Radio. Want to join us?
+.@kwinkunks and I interviewed @dontpanicgeo on #UndersampledRadio this week. Listen here:  
+Hot rocks today on #UndersampledRadio as @kwinkunks, @Tuff_Cookie, and I discuss #volcanoes!  
+Great little #video on the challenges associated with building a #space #elevator 
+Point out all 5 errors in this week's #UndersampledRadio #episode and @kwinkunks will sing you a song next week. 
+On #UndersampledRadio this week @kwinkunks and I talk #tech #news and #booze.  
+Hey there #UndersampledRadio listeners! We're now on @GooglePlay! Find us here: 
+Holy unprecedent #batman! Geophysical data from a #volcano in #NorthKorea! #opendata 
+
+
+Using @WhatsApp's web #messaging you can now have end-to-end #encrypted messages syndicated across devices. Thanks @WhatsApp!
+.@SandstoneOil's website is now protected with TLS #encryption. Thanks @letsencrypt! Check it out at 
+@SandstoneOil's website is now protected with TLS #encryption. Thanks @letsencrypt! Check it out at 
+This week on #UndersampledRadio @kwinkunks, @eprosenthal, and I are drowning in #data! Listen on @iTunes 
+I'm just starting the TLE FWI #algorithm. Ping me if you want to help. #Fork it here:  
+Gracias @melania_guerra! Me amo #geophysics, y de muchas maneras #oceanography es muy similar. Yo casi estudió oceanography a @univmiami
+@neiltyson Check out my new paper on what skills NASA's current astronaut roster is missing: 
+I finally #secured my site ( with TLS  Get free #SSL / #TLS certs from the #opensource gurus @letsencrypt
+@Cmdr_Hadfield It's an honor to be noticed by you, sir. Thanks for your years of service improving humanity.
+@AstroRM Thank you. And thanks for your astronautical service; you've helped progress and improve the human race!
+@astro_aggie check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@Astro_Christina check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@NASA_Hubble check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@OrbitalATK check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@NASAKennedy check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@nasahqphoto check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@NASAEarth check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@NASAArmstrong check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@Astro_Mike check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@SpaceX check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@astro_kjell check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@Astro_127 check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@astro_tim check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@NASA_Astronauts check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@TheRealBuzz check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@NASA_Johnson check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@NASASocial check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@Astro_Nicole check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@Astro_Jeff check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@StationCDRKelly check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@ShuttleCDRKelly check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@Astro_Ron check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@NASAGoddardPix check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@Astro_Wheels check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@NASA_Technology check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@Cmdr_Hadfield check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@ISS_CASIS check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@ISS_Research check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@blueorigin check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@astro_andre check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@astro_reid check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@spaceapps check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@Astro_Alex check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@Astro_Maker check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@AstroRM check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@astro_timpeake check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@astro_ricky check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@VicGlover check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@AstroKarenN check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@Space_Station check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@AstroAnnimal check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@astro_DonThomas check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@AstroDocScott check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@OlegMKS check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@Astro_Jeanette check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@DavaExplorer check out my analysis on what skills NASA's astronaut roster is missing (spoiler alert: not many): 
+@AstroBehnken my analysis shows you to be the only astronaut that's a colonel and has a PhD. Amazing! Check it out: 
+@AstroIronMike My analysis shows you're 1 of 3 astronauts who is multilingual! Check out the rest of the data: 
+@Astro_Jessica Dr. Meir, the same analysis ( points out that you're one of three astronauts who is multilingual!
+@Astro_Jessica My analysis shows you as one of four civilian astronauts with flight experience. Please read + share 
+@AstroMarshburn My analysis shows you as one of four civilian astronauts with flight experience. Please read + share 
+Want to be a @NASA #astronaut? They currently have some gaps in their skill set. Find out if you fill them: 
+Nothing says "check that off the list" like `git push origin master`. #git #developers #satisfaction
+This paper folding trick is a physical manifestation of why inverse problems are harder to solve than forward ones. 
+@neiltyson Dr. Tyson, I'd love to trade geoscience geekery for astro nerdiness in an interview on my new podcast, #UndersampledRadio.
+Today on #UndersampledRadio @kwinkunks and I tell you how to assist the #RiseoftheMachines by #hacking pics + txt: 
+I've just given a #physics lesson on static normal force through text messages. Next on my bucket list: smoke signals.
+Hey, #humans! You're quite poor at using standardized #linguistic syntax. Even the world's #smartest #computers can barely understand you.
+@segpublications Thanks for an awesome issue of TLE this month!
+@dontpanicgeo: Great episode (59) on tackling computing intimidation!
+@Tuff_Cookie, awsome blog! Want to join us on our podcast next week? My cohost @kwinkunks can even keep up in intelligent geo discussion!
+Download #UndersampledRadio episodes on #iTunes at  or stream from my site at 
+Today on #UndersampledRadio @kwinkunks and I spoke with Dr. Morgan Brown about the changing value proposition of the hi tech asset portfolio
+Net margin is a seductor, coercing complacence. Net profit is a siren, proposing a truth. #NOEW2016 @helloNOEW
+Happy #NewOrleans Entrepreneur Week! #NOEW2016 @helloNOEW
+#Cubetto is a project worthy of #funding, so have a look. #Kids #coding is awesome. But can I have one of these too? 
+Today on #UndersampledRadio @kwinkunks and I spoke with Scott Wessels. Listen in at  
+RT @cbdawson: Articles that don't discuss strengths and weaknesses are just either ads or people who drink too much cool-aid. There is no s…
+#VR projected at $40B by 2020. This includes games, data viz, and interactive tutorials. But remember this from '98? 
+Today on #UndersampledRadio @kwinkunks and I speak with @My_Carta about #color. Listen at  
+A #listener and #benefactor of #UndersampledRadio graciously donated this mic. We and our #audience thank you! 
+Here's an beautifully crafted #infographic about the rise and fall of the #OilAndGas business. #OilPrice #analytics 
+#Geophysics #fun! I'm at @fairgroundsnola with the Southeastern Geophysical Society this evening. Place your bets! 
+If you use another #RSS aggregator to listen to #podcasts, you can find #UndersampledRadio using 
+If you use another #RSS aggregator to listen to #podcasts, you can find #UndersampledRadio using 
+You can also stream our Podcast, #UndersampledRadio, from my site at 
+.@kwinkunks and I have published our podcast, #UndersampledRadio. Check us out on #iTunes at  
+Time + spatial analysis of #lead #pollution at #GNOSEF. Keep up the hard work! 
+Awesome #GNOSEF project comparing 1D filters to remove noise from signal. 
+The #judges are on the floor at the #gnosef. Good luck to all the #students! 
+I'm pleased to judge the senior level @GNOSEF competition today. There are interesting projects in #physics, #software, #chemistry, and more
+Thanks to @BlackPhysicists for continuing the fight to increase the number of #MinoritiesInSTEM. Keep it up! 
+Go play the new #VirtualReality game at American Sport Saloon in the #FrenchQuarter. It's deceptively realistic. 
+Thanks to @JesperDramsch for creating #phdchat for Geos, a @SlackHQ channel for talking geoscience. Join for free at 
+I found this #quartz vein grown through a piece of potassium feldspar #granite just outside #Houston. Guess where. 
+.@kwinkunks and I are hosting a podcast soon about #geophysics and #software and #stuff. Which name do you like best
+@kwinkunks and I are hosting a podcast soon about #geophysics and #software and #stuff. Which name do you like best?
+Though I'm excited to have dinner with some renowned #engineers tonight, I'll be missing my #scientist friends' guys night. #ScienceRules
+I'm in #Houston at NAPE this week. Send me a message if you want to get together for a #coffee.
+I had the incredible honor today of hanging out with #astronaut Fred Haise, 1 of 24 humans who've flown to the #moon 
+Dr. George Ioup was a legend in the signal processing community, a mentor to thousands, and an academic community hero. He will be missed.
+@SandstoneOil's new intern is a hard working #scientist who is going to force me to #rethink some things I "knew" to be true. #learning
+#MondayMotivation has got me psyched about Marchenko #Imaging and Basis Pursuit Inversion, @kwinkunks and @EvanBianco.
+Wouldn't an #acoustics / #electromagnetics cross discipline paper be #cool?
+Seriously. If you're into #electrodynamics and want to #brainstorm about Marchenko imaging, please send me a message 
+Has anyone else noticed the similarity between Marchenko Imaging and the Method of Images for calculating electromagnetic fields? Eerie, no?
+War is motivated by power or resources. It seems 10,000 years ago we still found a need to kill each other: 
+RT @JohnDCook: Nothing like writing a program to convince yourself you don't understand something you thought you did.
+Hey @geo_leeman and @ShannonDulin, thanks for @dontpanicgeo. The #podcast is great!
+Today @SandstoneOil we're estimating #geologic dips by using a plane wave destruction algorithm. See ch.4 for deets: 
+I just finished my application to @NASA! If you want to be an #astronaut you should too: 
+Not teaching kids how to #code in school is a national slight. #KidsCode #FreedomThroughEducation #WomenInSTEM
+
+Everyone planning to live past year 2020 needs to learn some #code. #Computers influence all facets of #life, including your favorites.
+If you've not yet played with @google's  you must. It's wonderful.
+Overall #satisfaction in life. Yet another reason to study #geology : via @forbes 
+If you can name all of the types of #quarks, post them here. I bet @neiltyson can do it!
+@jack_ganssle: Yes! It seems @CERN found pentaquarks! 
+
+
+
+Particle #physics is super cool. 
+#science #nerdiness seems to run in the family. Wouldn't you agree, @jack_ganssle?
+Good luck to @StationCDRKelly and @astro_tim on their #spacewalk this morning: 
+I'm prepping a 3D @JuliaLanguage shot profile wave equation #migration. #Wave propagation #data #science 
+Why don't #submarines crash into underwater mountains? Interesting #gravity gradiometry article in @segpublications: 
+RT @ichristine00: things you should know as #entrepreneur ...#emotionalintelligence #business #interview #work 
+Learn a new language; turns out it's good for your brain. Yo era un alumno, soy un alumno, voy a ser un alumno. #espanol
+Cascaded density flows generate #turbidites off the coast of the #Philippines. #GoogleMaps #bathymetry 
+#Seismic tomography of domal structural #geology in the arctic circle: 
+Textbook class 3 AVO response. AVO crisply defined the lateral reservoir extent! Wish they were all this easy... 
+RT @republicofmath: If integer n is not a square does the decimal expansion of 1/sqrt(n) contain all digits 0, 1, 2, 3, 4, 5, 6, 7, 8, 9?
+3 Point Science has a very cool web based interactive geological model building tool. Check it out at 
+Teapot Dome #seismic data. We've got a copy here sorted by shot ID and indexed by line #. Holler if you want a copy. 
+Depth imaging increased a client's reserves by 90% this morning. When you're ready for 21st century data, call us. 
+Check out this overlay: three iterations of stabilized LSM over the velocity model. 
+@DynamicWebPaige If you haven't done so already, check out  @JuliaLanguage + #seismicdata = beauty!
+Incorporating non-standard data into your operational decisions increases net margin. Think creatively, but act on quantitative analysis.
+RT @Entrepreneur: Cultivating Innovation Is a Direct Path to Profit by @SteveSponseller 
+Gives a whole new meaning to the term "elastic file system".  
+Collaborative efforts generate results unachievable by individual members.
+
+Here's a model:
+
+Check out the new @Microsoft Surface Book. Aside from running @Windows, it looks awesome!
+Skyline Geo has a physics Ph.D. on staff now! Signals, prepare to be analyzed.
+In 20 years no one will have a surname. Digital personas are so ubiquitous today that they're obsolete. I'll take serial number 1, please.
+@rideneworleans is commendably looking outside their social circle for a new president. New ideas drive #growth.
+
+
+@maitri, thanks for the inspiring discussion about what it takes to be a leader in geoscience at #SEG2015 this week!
+Excellent work @ChrisMcLindon! Keep it up! 
+Pop by the #2015SEG Wiki Meetup in the grand hall foyer to publish SEG content in real time or chat with me about the business of migration!
+We had a ball at the #SEG2015 today! Come hang out tomorrow for some interesting talks on least squares imaging and inversion.
+It's coming down the wire here at the 2015 #geohack. Thanks to @agilegeo and @gopropeller. Stop by at 4pm to meet the winning hackers!
+Sitting down for a decompression session with the team from day one of the 2015 #geohack. Keep up the hard work, hackers!
+We were playing with #color at #SkylineGeo yesterday. If you'd like a free RGB colorbar designer written in Mathematica, send me a message!
+Invest in desalination tech to secure your retirement home on Mars. See you there. #MarsAnnouncement
+Check out the recative updates on my website, courtesy of #javascript and @jpfrenay.
+
+RT @neiltyson: If your Personal Beliefs deny what’s objectively true about the world, then they're more accurately called Personal Delusions
+Calculated in intent, but Darwinian in hindsight, we entrepreneurs are left with the evolutionary distillates of our successes and failures.
+A test for our new applicants evaluates their ability to solve a #DistributedComputing problem. What question would you ask on your test?
+RT @sebastiangood: Once we bought tech from software vendors. Now we borrow it from VC-funded companies. This one from #Uber. 
+@Sugatam cleverly asserts knowledge is obsolete. Ironically, the rate of knowledge obsoleteness is proportional to computer memory capacity.
+The ultimate empathy is leaving your wireless network unsecured. #humanrace
+@rosettastone is one of few companies who thrive on two distinct pricing strategies: a SaaS model, and a legacy license model. Very clever!
+My Kirchhoff ray tracing algorithm ran for 10 hours, and crashed my computer after building 800GB worth of traveltime table. Oops.
+@kwinkunks If you have trouble getting in touch, email or call me. I can send them an additional message. #forAGoodCause
+I've finished #SeisimcUnix programs to compress .su data via cosine, wavelet, and wavelet-packet transforms. Ask me for the code!#geophysics
+@kwinkunks Get in touch with SGS ( Almost every geophysicist in nola is a member.
+@kwinkunks I'm interested to meet the @agilegeo team, play with geophysics hacking, and attend #geophysicsHackathon2015. I'll be there!
+@tails_live OS runs entirely in memory. #nofootprints
+@tails_live OS runs completely in memory. #nofootprints
+Maximum @android Lollipop encryption password length = 16. Speed of Tianhe-2 = 33 PFLOPs. Days to crack said password = 15. #supercomputer
+The future of seismic interpretation is analyzing elastic parameters, rather than reflectivity information. #inversion #migration
+
+RT @ackshaey: “Top 5 priorities for a startup CEO (in order)” by @mkatz0630 
+LSM images and results contained in a separate repository will go live by next week. Ask for access at 
+The private repo containing my stabilized LSM code is now live. Ask for access at 
+How do we measure the greatness of cities? 
+Fascinating topic #urbanplanning
+ 
+Absolutely fascinating article 
+Want 4 dimensional financial models? Ping me.
+Quantitative direct expense forecasting drives margin enhancing decisions.
+just mathed out some interesting figures on my current research:
+
+including all results would generate a 1000 page publication. not good...
+new site: 
+
+new email: gr@m-gan.sl
+
+check it out.
+Can we reconstruct transient signals from discrete cosine transforms with the same accuracy as from discrete wavelet packet transforms?
+
+Preach it!
+Lossy compression of seismic images by ridgelet transform. Very clever. Interleaving scales between scales to decode the data. Super clever.
+Clever little web app for generating statistics on a synthetic quantum key distribution run: 
+4 simultaneous full waveform inversion stabilized least squares migrations running on a laptop. Trouble? 
+Mind blown: 
+All hail open source! To all @WolframResearch Mathematica users: get onboard the @JuliaLanguage train.
+Happy belated birthday, Joseph Fourier. Computer vision is mind numbingly slow without you.
+Hello world!

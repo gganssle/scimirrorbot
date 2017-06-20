@@ -27,7 +27,7 @@ var dateBot = function(){
 
 var scrapeBot = function(name) {
 	// get tweets from user
-	Twitter.get('statuses/user_timeline', { screen_name: name, count: 200}, 
+	Twitter.get('statuses/user_timeline', { screen_name: name, count: 200, max_id: 703275311119671300}, 
 	function (err, data, response) {
 		// debugging
 		if (ops.verbose == 1){ console.log(data) };
