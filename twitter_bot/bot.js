@@ -20,14 +20,16 @@ var dateBot = function(){
 	var dte = Date();
 
 	// tweet date
-	Twitter.post('statuses/update', { status: dte }, function(err, data, response) {
-	  if (ops.verbose == 1){ console.log(data) }
+	Twitter.post('statuses/update', 
+	{ status: dte }, 
+	function(err, data, response) {
+		if (ops.verbose == 1){ console.log(data) }
 	})
 }
 
 var scrapeBot = function(name) {
 	// get tweets from user
-	Twitter.get('statuses/user_timeline', { screen_name: name, count: 200, max_id: 703275311119671300}, 
+	Twitter.get('statuses/user_timeline', { screen_name: name, count: 200 }, 
 	function (err, data, response) {
 		// debugging
 		if (ops.verbose == 1){ console.log(data) };
@@ -36,7 +38,24 @@ var scrapeBot = function(name) {
 		for (i = 0; i < data.length; i++) {
 			console.log(data[i].text);
 		};
+
+		nxttwts(name, data[data.length - 1].id, data[0].id);
 	})
+
+	var nxttwts = function(name, lastid, firstid) {
+		Twitter.get('statuses/user_timeline', 
+		{ screen_name: name, count: 200, max_id: lastid },
+		function (err, data, response) {
+			for (i = 0; i < data.length; i++) {
+				console.log(data[i].text);
+			}
+
+			if (lastid != firstid) {
+				nxttwts(name, data[data.length - 1].id, data[0].id);
+			}
+		})
+	}
+
 }
 
 var flwrBot = function(name) {
@@ -47,15 +66,7 @@ var flwrBot = function(name) {
 		for (i = 0; i < data.users.length; i++) {
 			console.log(data.users[i].screen_name)
 		}
-
-		//console.log(data);
-		idupdate(data.next_cursor);
-
 	})
-
-	var idupdate = function(id) {
-		console.log('\n' + id + '\n');
-	}
 }
 
 // Execution ================================
@@ -63,7 +74,7 @@ if (ops.process == 'date') {
 	console.log('im doing the date thing');
 	dateBot();
 } else if (ops.process == 'scrape') {
-	name = 'grahamganssle'
+	name = 'sebastiangood'
 	scrapeBot(name);
 } else if (ops.process == 'followers') {
 	name = 'grahamganssle';
