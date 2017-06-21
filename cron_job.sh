@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # init
-PUSHNO=$(( ( RANDOM % 13 ) ))
+PUSHNO=$(( ( RANDOM % 3 ) ))
 
 # tweet
 cd /home/ubuntu/scimirrorbot/twitter_bot/
