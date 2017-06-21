@@ -40,12 +40,22 @@ var scrapeBot = function(name) {
 }
 
 var flwrBot = function(name) {
+
 	Twitter.get('followers/list', { screen_name: name, count: 200},
 	function(err, data, response) {
+
 		for (i = 0; i < data.users.length; i++) {
 			console.log(data.users[i].screen_name)
 		}
+
+		//console.log(data);
+		idupdate(data.next_cursor);
+
 	})
+
+	var idupdate = function(id) {
+		console.log('\n' + id + '\n');
+	}
 }
 
 // Execution ================================
