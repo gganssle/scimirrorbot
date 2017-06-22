@@ -10,7 +10,8 @@ var Twitter = new twit(config);
 // Options ===========================
 var ops = stdio.getopt({
 	'process': {key: 'p', args: 1, description: 'Which process to run', mandatory: true},
-	'verbose': {key: 'v', args: 1, description: 'Print information: 1/0', default: 0}
+	'verbose': {key: 'v', args: 1, description: 'Print information: 1/0', default: 0},
+	'usernme': {key: 'u', args: 1, description: 'Screenname of user to scrape', default: ''}
 });
 
 // BOTS ==========================
@@ -71,13 +72,25 @@ var flwrBot = function(name) {
 
 // Execution ================================
 if (ops.process == 'date') {
+/* Syntax:
+	nodejs bot.js -p date
+*/
 	console.log('im doing the date thing');
 	dateBot();
 } else if (ops.process == 'scrape') {
-	name = 'sebastiangood'
+/* Syntax:
+	nodejs bot.js -p scrape -un grahamganssle > ../dat/tweets/grahamganssle.scrape
+*/
+	if (ops.usernme == '') {
+		throw new Error("YOU NEED TO SUPPLY A USERNAME USING THE -u FLAG.");
+	}
+	name = ops.usernme;
 	scrapeBot(name);
 } else if (ops.process == 'followers') {
-	name = 'grahamganssle';
+/* Syntax:
+	nodejs bot.js -p followers 
+*/
+	name = ops.usernme;
 	flwrBot(name);
 } else {
 	console.log(ops.process, 'isnt a valid process');
