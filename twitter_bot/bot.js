@@ -70,8 +70,16 @@ var flwrBot = function(name) {
 	})
 }
 
-var tweetBot = function() {
-	
+var tweetBot = function(tweetFile) {
+	fs = require('fs');
+	fs.readFile(tweetFile, 'utf8', function(err,data){
+		Twitter.post('statuses/update', 
+		{ status: data }, 
+		function(err, data, response) {
+			if (ops.verbose == 1){ console.log(data) }
+		})
+
+	})
 }
 
 // Execution ================================
@@ -81,8 +89,14 @@ if (ops.process == 'date') {
 */
 	console.log('im doing the date thing');
 	dateBot();
+
 } else if (ops.process == 'tweet') {
-	tweetBot();
+/* Syntax:
+	nodejs bot.js -p tweet
+*/
+	var tweetFile = '/home/ubuntu/scimirrorbot/most_recent_tweet.txt';
+	tweetBot(tweetFile);
+
 } else if (ops.process == 'scrape') {
 /* Syntax:
 	nodejs bot.js -p scrape -un grahamganssle > ../dat/tweets/grahamganssle.scrape
@@ -92,12 +106,14 @@ if (ops.process == 'date') {
 	}
 	name = ops.usernme;
 	scrapeBot(name);
+
 } else if (ops.process == 'followers') {
 /* Syntax:
 	nodejs bot.js -p followers 
 */
 	name = ops.usernme;
 	flwrBot(name);
+
 } else {
 	console.log(ops.process, 'isnt a valid process');
 	if (ops.verbose == 1){ console.log('verbose is on') };
