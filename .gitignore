@@ -1,3 +1,4 @@
 twitter_bot/config.js
 dat/tweets/*
 dat/models/*
+dat/training/*

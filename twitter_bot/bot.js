@@ -70,6 +70,10 @@ var flwrBot = function(name) {
 	})
 }
 
+var tweetBot = function() {
+	
+}
+
 // Execution ================================
 if (ops.process == 'date') {
 /* Syntax:
@@ -77,6 +81,8 @@ if (ops.process == 'date') {
 */
 	console.log('im doing the date thing');
 	dateBot();
+} else if (ops.process == 'tweet') {
+	tweetBot();
 } else if (ops.process == 'scrape') {
 /* Syntax:
 	nodejs bot.js -p scrape -un grahamganssle > ../dat/tweets/grahamganssle.scrape
