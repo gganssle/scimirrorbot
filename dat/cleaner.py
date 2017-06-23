@@ -1,9 +1,14 @@
 #!/usr/bin/env python
 
-import re
+'''
+Syntax:
+python cleaner.py < tweets/grahamganssle.scrape > training/input.txt
+'''
 
-with open('sebastiangood.scrape', 'r') as f:
-	inp = f.read()
+import re
+import sys
+
+inp = sys.stdin.read()
 
 # remove links
 outp = re.sub(r"http\S+", "", inp)
@@ -13,5 +18,4 @@ outp = re.sub(r"RT ", "", outp)
 outp = re.sub(r"\n\n", "\n", outp)
 outp = re.sub(r"\n\n\n", "\n", outp)
 
-with open('sebastiangood.clean', 'w') as f:
-	f.write(outp)
+print(outp)
