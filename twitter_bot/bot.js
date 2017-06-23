@@ -82,6 +82,39 @@ var tweetBot = function(tweetFile) {
 	})
 }
 
+var friendslist = function(name) {
+	Twitter.get('friends/list', { screen_name: name, count: 200 }, 
+	function (err, data, response) {
+		// debugging
+		if (ops.verbose == 1){ console.log(data) };
+		
+		// print friends
+		for (i = 0; i < data.users.length; i++) {
+			console.log(data.users[i].screen_name);
+		};
+
+		nxtfrnds(name, data.next_cursor, data.previous_cursor);
+	})
+
+	var nxtfrnds = function(name, lastid, firstid) {
+		Twitter.get('friends/list', 
+		{ screen_name: name, count: 200, cursor: lastid },
+		function (err, data, response) {
+			console.log('previous cursor = ' + data.previous_cursor);
+
+			for (i = 0; i < data.users.length; i++) {
+				console.log(data.users[i].screen_name);
+			}
+			console.log('next cursor = ' + data.next_cursor);
+
+			if (lastid != firstid) {
+				nxtfrnds(name, data.next_cursor, data.previous_cursor);
+			}
+		})
+	}
+
+}
+
 // Execution ================================
 if (ops.process == 'date') {
 /* Syntax:
@@ -89,6 +122,12 @@ if (ops.process == 'date') {
 */
 	console.log('im doing the date thing');
 	dateBot();
+
+} else if (ops.process == 'listfriends') {
+/* Syntax:
+	nodejs bot.js -p listfriends ../dat/friendsList_201706231600
+*/
+	friendslist('scimirrorbot');
 
 } else if (ops.process == 'tweet') {
 /* Syntax:
