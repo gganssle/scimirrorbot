@@ -21,11 +21,12 @@ var follow = function(id) {
 
 var check = function(id) {
 	Twitter.get('users/show', {user_id: id}, function(err, data, resp){
-		//console.log(data.name, 'has posted', data.statuses_count, 'tweets.');
+		console.log(data.name, 'has posted', data.statuses_count, 'tweets.');
 		
 		if (data.statuses_count > 1000) {
 			//follow(id);
-			//console.log(data.name, 'has posted', data.statuses_count, 'tweets.');
+			console.log('\n');
+			console.log(data.name, 'has posted', data.statuses_count, 'tweets.');
 		}
 	})
 }
