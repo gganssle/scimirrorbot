@@ -138,7 +138,7 @@ if (ops.process == 'date') {
 
 } else if (ops.process == 'scrape') {
 /* Syntax:
-	nodejs bot.js -p scrape -un grahamganssle > ../dat/tweets/grahamganssle.scrape
+	nodejs bot.js -p scrape -u grahamganssle > ../dat/tweets/grahamganssle.scrape
 */
 	if (ops.usernme == '') {
 		throw new Error("YOU NEED TO SUPPLY A USERNAME USING THE -u FLAG.");

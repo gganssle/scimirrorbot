@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # init
-USERNM=grahamganssle
+USERNM=$( head -1 /home/ubuntu/scimirrorbot/dat/friendsList.txt )
 CHKPNT=/home/ubuntu/scimirrorbot/dat/models/$USERNM.t7
 PRESTRING=".@$USERNM says: "
 TWEETY=/home/ubuntu/scimirrorbot/most_recent_tweet.txt
@@ -13,7 +13,7 @@ LENNY=$((139 - ${#PRESTRING}))
 SEEDY=$(( ( RANDOM % 9999999998 ) + 1))
 TEMP=$(( (RANDOM % 9) + 1 ))
 
-i# tweet to file
+# tweet to file
 echo $PRESTRING > $TWEETY
 cd /home/ubuntu/scimirrorbot/rnn/
 th sample.lua $CHKPNT -gpuid -1 -verbose 0 -seed $SEEDY -length $LENNY -temperature .$TEMP >> $TWEETY
