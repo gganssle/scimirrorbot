@@ -4,7 +4,7 @@
 SMBDIR=/home/ubuntu/scimirrorbot
 FRNDLST=$SMBDIR/dat/friendsList.txt
 MODLDIR=$SMBDIR/dat/models
-DATADIR=$SMBDIR/scimirrorbot/dat/tweets
+DATADIR=$SMBDIR/dat/tweets
 TRANDIR=$SMBDIR/dat/training
 TWEETY=$SMBDIR/most_recent_tweet.txt
 
@@ -13,9 +13,9 @@ NXTUSR=$( head -2 $FRNDLST | tail -1 )
 TRNUSR=$( head -3 $FRNDLST | tail -1 )
 
 # clean up the model folder
-#LSTEPC=$( ls -t1 $MODLDIR | head -1 )
-#mv $MODLDIR/$LSTEPC $MODLDIR/$NXTUSR.t7
-#rm $MODLDIR/lm_*
+LSTEPC=$( ls -t1 $MODLDIR | head -1 )
+mv $MODLDIR/$LSTEPC $MODLDIR/$NXTUSR.t7
+rm $MODLDIR/lm_*
 
 # clean up the raw tweets folder
 rm $DATADIR/*
