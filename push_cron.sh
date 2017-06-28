@@ -11,7 +11,7 @@ ssh-add /home/ubuntu/.ssh/scimirrorbot-git
 cd /home/ubuntu/scimirrorbot/
 
 if [ $PUSHNO = 0 ]; then
-	echo no updates today >> /home/ubuntu/scimirrorbot/logs/date.log
+	echo no updates today: $(date) >> /home/ubuntu/scimirrorbot/logs/date.log
 else
 	for i in `seq 0 $PUSHNO`
 	do
