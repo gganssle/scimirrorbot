@@ -25,5 +25,8 @@ do
 	nodejs weaponize.js
 	
 	# output
-	echo $i 
+	echo $i
+
+	# don't redline the Twitter API
+	sleep 5 
 done
