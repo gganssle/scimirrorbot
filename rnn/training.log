@@ -2619,3 +2619,8 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_huffposttech_epoch5
 2554/19900 (epoch 6.417), train_loss = 1.66434560, grad/param norm = 2.2747e-01, time/batch = 0.6813s	
 2555/19900 (epoch 6.420), train_loss = 1.70690919, grad/param norm = 2.2289e-01, time/batch = 0.7035s	
 2556/19900 (epoch 6.422), train_loss = 1.52866245, grad/param norm = 2.0751e-01, time/batch = 0.7111s	
+2557/19900 (epoch 6.425), train_loss = 1.57844797, grad/param norm = 2.0833e-01, time/batch = 1.5344s	
+2558/19900 (epoch 6.427), train_loss = 1.65209181, grad/param norm = 2.2825e-01, time/batch = 0.7367s	
+2559/19900 (epoch 6.430), train_loss = 1.54387524, grad/param norm = 2.0559e-01, time/batch = 0.7146s	
+2560/19900 (epoch 6.432), train_loss = 1.47854484, grad/param norm = 2.1212e-01, time/batch = 0.7163s	
+2561/19900 (epoch 6.435), train_loss = 1.44808828, grad/param norm = 1.9811e-01, time/batch = 0.7198s	
