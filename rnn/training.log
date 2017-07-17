@@ -12339,3 +12339,4 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_huffposttech_epoch3
 12023/19900 (epoch 30.209), train_loss = 0.76300737, grad/param norm = 2.5303e-01, time/batch = 15.3064s	
 12024/19900 (epoch 30.211), train_loss = 0.95813038, grad/param norm = 2.7557e-01, time/batch = 15.3238s	
 12025/19900 (epoch 30.214), train_loss = 0.87278260, grad/param norm = 2.4375e-01, time/batch = 15.1754s	
+12026/19900 (epoch 30.216), train_loss = 0.78398850, grad/param norm = 3.4466e-01, time/batch = 23.2815s	
