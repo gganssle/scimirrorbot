@@ -2629,3 +2629,9 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_protohedgehog_epoch
 2538/31950 (epoch 3.972), train_loss = 1.74742883, grad/param norm = 2.0553e-01, time/batch = 0.6993s	
 2539/31950 (epoch 3.973), train_loss = 1.73305007, grad/param norm = 1.9434e-01, time/batch = 0.6934s	
 2540/31950 (epoch 3.975), train_loss = 1.64664324, grad/param norm = 2.1991e-01, time/batch = 0.6921s	
+2541/31950 (epoch 3.977), train_loss = 1.81552454, grad/param norm = 2.0580e-01, time/batch = 1.0185s	
+2542/31950 (epoch 3.978), train_loss = 1.47111473, grad/param norm = 1.8095e-01, time/batch = 1.1083s	
+2543/31950 (epoch 3.980), train_loss = 1.90852329, grad/param norm = 2.2470e-01, time/batch = 0.7160s	
+2544/31950 (epoch 3.981), train_loss = 1.60178168, grad/param norm = 2.0072e-01, time/batch = 0.7190s	
+2545/31950 (epoch 3.983), train_loss = 1.62629636, grad/param norm = 1.9040e-01, time/batch = 0.7040s	
+2546/31950 (epoch 3.984), train_loss = 1.79700103, grad/param norm = 2.3787e-01, time/batch = 0.6985s	
