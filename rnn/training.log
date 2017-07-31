@@ -12322,3 +12322,4 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_ichristine00_epoch4
 12064/13450 (epoch 44.848), train_loss = 0.96309546, grad/param norm = 2.8267e-01, time/batch = 15.6279s	
 12065/13450 (epoch 44.851), train_loss = 1.06283228, grad/param norm = 2.8654e-01, time/batch = 15.7410s	
 12066/13450 (epoch 44.855), train_loss = 1.14937793, grad/param norm = 4.2613e-01, time/batch = 15.5756s	
+12067/13450 (epoch 44.859), train_loss = 1.13857125, grad/param norm = 3.4711e-01, time/batch = 20.6500s	
