@@ -18805,3 +18805,4 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_berniesanders_epoch
 18050/35700 (epoch 25.280), train_loss = 0.83282012, grad/param norm = 1.5341e-01, time/batch = 15.5692s	
 18051/35700 (epoch 25.282), train_loss = 0.81011235, grad/param norm = 1.6373e-01, time/batch = 12.6905s	
 18052/35700 (epoch 25.283), train_loss = 1.01730333, grad/param norm = 1.5497e-01, time/batch = 10.2140s	
+18053/35700 (epoch 25.284), train_loss = 0.88804394, grad/param norm = 1.4681e-01, time/batch = 18.8213s	
