@@ -29100,3 +29100,4 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_astro_andre_epoch43
 28039/32150 (epoch 43.607), train_loss = 1.16048508, grad/param norm = 2.0888e-01, time/batch = 16.7012s	
 28040/32150 (epoch 43.608), train_loss = 0.99730458, grad/param norm = 1.8242e-01, time/batch = 16.2287s	
 28041/32150 (epoch 43.610), train_loss = 1.17888943, grad/param norm = 2.1146e-01, time/batch = 16.4103s	
+28042/32150 (epoch 43.611), train_loss = 1.10765682, grad/param norm = 1.5953e-01, time/batch = 35.1147s	
