@@ -2367,3 +2367,11 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_billnye_epoch5.97_1
 2308/16750 (epoch 6.890), train_loss = 1.72417538, grad/param norm = 2.0579e-01, time/batch = 0.7508s	
 2309/16750 (epoch 6.893), train_loss = 2.07690952, grad/param norm = 2.2113e-01, time/batch = 0.7604s	
 2310/16750 (epoch 6.896), train_loss = 1.69722952, grad/param norm = 2.0701e-01, time/batch = 0.7376s	
+2311/16750 (epoch 6.899), train_loss = 1.87753171, grad/param norm = 2.5704e-01, time/batch = 1.3504s	
+2312/16750 (epoch 6.901), train_loss = 1.78672868, grad/param norm = 2.1565e-01, time/batch = 1.1545s	
+2313/16750 (epoch 6.904), train_loss = 1.81529162, grad/param norm = 2.0881e-01, time/batch = 0.7675s	
+2314/16750 (epoch 6.907), train_loss = 1.52151806, grad/param norm = 1.9765e-01, time/batch = 0.7834s	
+2315/16750 (epoch 6.910), train_loss = 1.54967590, grad/param norm = 2.1512e-01, time/batch = 0.7952s	
+2316/16750 (epoch 6.913), train_loss = 1.80160764, grad/param norm = 2.2764e-01, time/batch = 0.8192s	
+2317/16750 (epoch 6.916), train_loss = 1.91479584, grad/param norm = 2.2619e-01, time/batch = 0.8790s	
+2318/16750 (epoch 6.919), train_loss = 1.77434003, grad/param norm = 2.1983e-01, time/batch = 0.7209s	
