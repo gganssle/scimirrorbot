@@ -2645,3 +2645,9 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_scottwalker_epoch3.
 2562/28500 (epoch 4.495), train_loss = 1.54662287, grad/param norm = 2.0168e-01, time/batch = 0.6943s	
 2563/28500 (epoch 4.496), train_loss = 1.61566827, grad/param norm = 2.1850e-01, time/batch = 0.6980s	
 2564/28500 (epoch 4.498), train_loss = 1.63734342, grad/param norm = 2.1800e-01, time/batch = 0.7559s	
+2565/28500 (epoch 4.500), train_loss = 1.59509788, grad/param norm = 2.1097e-01, time/batch = 1.4171s	
+2566/28500 (epoch 4.502), train_loss = 1.63636796, grad/param norm = 2.0354e-01, time/batch = 0.7105s	
+2567/28500 (epoch 4.504), train_loss = 1.63242744, grad/param norm = 1.9121e-01, time/batch = 0.7049s	
+2568/28500 (epoch 4.505), train_loss = 1.49680720, grad/param norm = 1.8426e-01, time/batch = 0.7020s	
+2569/28500 (epoch 4.507), train_loss = 1.77424477, grad/param norm = 2.2939e-01, time/batch = 0.7011s	
+2570/28500 (epoch 4.509), train_loss = 1.56791200, grad/param norm = 2.2587e-01, time/batch = 0.7008s	
