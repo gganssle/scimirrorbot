@@ -1,4 +1,3 @@
-astro_davids
 billnye
 scottwalker
 michiokaku
