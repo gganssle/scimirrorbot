@@ -2759,3 +2759,9 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_matlab_epoch3.95_1.
 2682/25300 (epoch 5.300), train_loss = 1.76286376, grad/param norm = 2.3617e-01, time/batch = 0.6562s	
 2683/25300 (epoch 5.302), train_loss = 1.33915138, grad/param norm = 2.0578e-01, time/batch = 0.6656s	
 2684/25300 (epoch 5.304), train_loss = 1.57129861, grad/param norm = 2.1546e-01, time/batch = 0.6625s	
+2685/25300 (epoch 5.306), train_loss = 1.21651742, grad/param norm = 1.8590e-01, time/batch = 1.4370s	
+2686/25300 (epoch 5.308), train_loss = 1.52604653, grad/param norm = 1.7643e-01, time/batch = 0.7140s	
+2687/25300 (epoch 5.310), train_loss = 1.44874941, grad/param norm = 1.9945e-01, time/batch = 0.6850s	
+2688/25300 (epoch 5.312), train_loss = 1.50045472, grad/param norm = 2.0393e-01, time/batch = 0.6811s	
+2689/25300 (epoch 5.314), train_loss = 1.25916915, grad/param norm = 1.9293e-01, time/batch = 0.6858s	
+2690/25300 (epoch 5.316), train_loss = 1.51879640, grad/param norm = 1.9432e-01, time/batch = 0.6896s	
