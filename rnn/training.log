@@ -12748,3 +12748,11 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_nasaarmstrong_epoch
 12276/33150 (epoch 18.516), train_loss = 1.15042156, grad/param norm = 1.9168e-01, time/batch = 0.6980s	
 12277/33150 (epoch 18.517), train_loss = 1.17055450, grad/param norm = 1.5307e-01, time/batch = 0.6922s	
 12278/33150 (epoch 18.519), train_loss = 0.97703687, grad/param norm = 1.3555e-01, time/batch = 0.6909s	
+12279/33150 (epoch 18.520), train_loss = 1.07541374, grad/param norm = 1.4220e-01, time/batch = 1.1310s	
+12280/33150 (epoch 18.522), train_loss = 1.22816419, grad/param norm = 1.8258e-01, time/batch = 1.2088s	
+12281/33150 (epoch 18.523), train_loss = 0.98689490, grad/param norm = 1.4782e-01, time/batch = 0.6734s	
+12282/33150 (epoch 18.525), train_loss = 1.13819292, grad/param norm = 1.6597e-01, time/batch = 0.6946s	
+12283/33150 (epoch 18.526), train_loss = 0.98415717, grad/param norm = 1.5562e-01, time/batch = 0.7001s	
+12284/33150 (epoch 18.528), train_loss = 1.09652139, grad/param norm = 1.5695e-01, time/batch = 0.6945s	
+12285/33150 (epoch 18.529), train_loss = 1.03912079, grad/param norm = 1.4528e-01, time/batch = 0.6926s	
+12286/33150 (epoch 18.531), train_loss = 0.88811621, grad/param norm = 1.5534e-01, time/batch = 0.6836s	
