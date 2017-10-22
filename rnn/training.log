@@ -2834,3 +2834,9 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_ylcnola_epoch3.60_1
 2751/27800 (epoch 4.948), train_loss = 1.70182177, grad/param norm = 2.0591e-01, time/batch = 0.6593s	
 2752/27800 (epoch 4.950), train_loss = 1.56097599, grad/param norm = 2.0095e-01, time/batch = 0.6580s	
 2753/27800 (epoch 4.951), train_loss = 1.93139924, grad/param norm = 2.3180e-01, time/batch = 0.6381s	
+2754/27800 (epoch 4.953), train_loss = 1.78838982, grad/param norm = 2.3095e-01, time/batch = 0.6817s	
+2755/27800 (epoch 4.955), train_loss = 1.73219351, grad/param norm = 2.2863e-01, time/batch = 0.6349s	
+2756/27800 (epoch 4.957), train_loss = 1.64518598, grad/param norm = 2.0949e-01, time/batch = 0.6365s	
+2757/27800 (epoch 4.959), train_loss = 1.65288082, grad/param norm = 2.0398e-01, time/batch = 0.6345s	
+2758/27800 (epoch 4.960), train_loss = 1.59602472, grad/param norm = 1.9519e-01, time/batch = 0.6430s	
+2759/27800 (epoch 4.962), train_loss = 1.71781941, grad/param norm = 2.3434e-01, time/batch = 0.6455s	
