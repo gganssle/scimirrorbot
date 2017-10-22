@@ -2827,3 +2827,10 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_ylcnola_epoch3.60_1
 2744/27800 (epoch 4.935), train_loss = 1.56178095, grad/param norm = 2.2780e-01, time/batch = 0.6517s	
 2745/27800 (epoch 4.937), train_loss = 1.55224592, grad/param norm = 2.2705e-01, time/batch = 0.6541s	
 2746/27800 (epoch 4.939), train_loss = 1.53224255, grad/param norm = 2.0119e-01, time/batch = 0.6594s	
+2747/27800 (epoch 4.941), train_loss = 1.72045143, grad/param norm = 2.2086e-01, time/batch = 1.1558s	
+2748/27800 (epoch 4.942), train_loss = 1.75976145, grad/param norm = 2.1073e-01, time/batch = 0.9683s	
+2749/27800 (epoch 4.944), train_loss = 1.65330225, grad/param norm = 2.2078e-01, time/batch = 0.6385s	
+2750/27800 (epoch 4.946), train_loss = 1.54264833, grad/param norm = 2.0872e-01, time/batch = 0.6536s	
+2751/27800 (epoch 4.948), train_loss = 1.70182177, grad/param norm = 2.0591e-01, time/batch = 0.6593s	
+2752/27800 (epoch 4.950), train_loss = 1.56097599, grad/param norm = 2.0095e-01, time/batch = 0.6580s	
+2753/27800 (epoch 4.951), train_loss = 1.93139924, grad/param norm = 2.3180e-01, time/batch = 0.6381s	
