@@ -2721,3 +2721,9 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_coschoolofmines_epo
 2638/28400 (epoch 4.644), train_loss = 1.65856966, grad/param norm = 2.1249e-01, time/batch = 0.6923s	
 2639/28400 (epoch 4.646), train_loss = 1.61985961, grad/param norm = 2.0288e-01, time/batch = 0.6855s	
 2640/28400 (epoch 4.648), train_loss = 1.80165840, grad/param norm = 2.2156e-01, time/batch = 0.6684s	
+2641/28400 (epoch 4.650), train_loss = 1.78237161, grad/param norm = 1.8429e-01, time/batch = 0.7108s	
+2642/28400 (epoch 4.651), train_loss = 1.75840192, grad/param norm = 1.8326e-01, time/batch = 0.6732s	
+2643/28400 (epoch 4.653), train_loss = 1.69694525, grad/param norm = 2.0017e-01, time/batch = 0.6648s	
+2644/28400 (epoch 4.655), train_loss = 1.69012997, grad/param norm = 1.9511e-01, time/batch = 0.6660s	
+2645/28400 (epoch 4.657), train_loss = 1.57809298, grad/param norm = 1.9679e-01, time/batch = 0.6675s	
+2646/28400 (epoch 4.658), train_loss = 1.46623354, grad/param norm = 1.6757e-01, time/batch = 0.6647s	
