@@ -2740,3 +2740,10 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_elonmusk_epoch3.92_
 2663/25500 (epoch 5.222), train_loss = 1.88153560, grad/param norm = 1.8878e-01, time/batch = 0.6608s	
 2664/25500 (epoch 5.224), train_loss = 1.75313432, grad/param norm = 1.8428e-01, time/batch = 0.6775s	
 2665/25500 (epoch 5.225), train_loss = 1.70816010, grad/param norm = 1.8475e-01, time/batch = 0.6773s	
+2666/25500 (epoch 5.227), train_loss = 1.84640673, grad/param norm = 1.9605e-01, time/batch = 1.0866s	
+2667/25500 (epoch 5.229), train_loss = 1.88733763, grad/param norm = 1.9358e-01, time/batch = 1.1082s	
+2668/25500 (epoch 5.231), train_loss = 1.98403051, grad/param norm = 2.0470e-01, time/batch = 0.6846s	
+2669/25500 (epoch 5.233), train_loss = 1.86505527, grad/param norm = 1.8087e-01, time/batch = 0.6839s	
+2670/25500 (epoch 5.235), train_loss = 1.69620928, grad/param norm = 1.6649e-01, time/batch = 0.6756s	
+2671/25500 (epoch 5.237), train_loss = 1.91363638, grad/param norm = 2.0349e-01, time/batch = 0.6733s	
+2672/25500 (epoch 5.239), train_loss = 1.70831713, grad/param norm = 1.6720e-01, time/batch = 0.6622s	
