@@ -20972,3 +20972,4 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_astro_wheels_epoch2
 20115/36900 (epoch 27.256), train_loss = 1.07701379, grad/param norm = 1.2902e-01, time/batch = 17.6140s	
 20116/36900 (epoch 27.257), train_loss = 0.97077033, grad/param norm = 1.1396e-01, time/batch = 20.2859s	
 20117/36900 (epoch 27.259), train_loss = 0.96585117, grad/param norm = 1.3705e-01, time/batch = 19.0305s	
+20118/36900 (epoch 27.260), train_loss = 1.11672077, grad/param norm = 1.0849e-01, time/batch = 24.2892s	
