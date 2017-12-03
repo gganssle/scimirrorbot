@@ -2683,3 +2683,9 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_obamawhitehouse_epo
 2586/34800 (epoch 3.716), train_loss = 1.28767864, grad/param norm = 1.7243e-01, time/batch = 0.6809s	
 2587/34800 (epoch 3.717), train_loss = 1.35158600, grad/param norm = 1.7683e-01, time/batch = 0.6992s	
 2588/34800 (epoch 3.718), train_loss = 1.63055900, grad/param norm = 1.9982e-01, time/batch = 0.7747s	
+2589/34800 (epoch 3.720), train_loss = 1.35823125, grad/param norm = 1.7923e-01, time/batch = 1.4029s	
+2590/34800 (epoch 3.721), train_loss = 1.44387599, grad/param norm = 1.9464e-01, time/batch = 0.6948s	
+2591/34800 (epoch 3.723), train_loss = 1.70701181, grad/param norm = 2.2678e-01, time/batch = 0.6938s	
+2592/34800 (epoch 3.724), train_loss = 1.53930590, grad/param norm = 1.8552e-01, time/batch = 0.7035s	
+2593/34800 (epoch 3.726), train_loss = 1.69223130, grad/param norm = 2.1068e-01, time/batch = 0.6991s	
+2594/34800 (epoch 3.727), train_loss = 1.59484674, grad/param norm = 1.9871e-01, time/batch = 0.6788s	
