@@ -21162,3 +21162,4 @@ decayed learning rate by a factor 0.97 to 0.0010875886858535
 20343/34800 (epoch 29.228), train_loss = 0.95427106, grad/param norm = 1.4340e-01, time/batch = 17.4410s	
 20344/34800 (epoch 29.230), train_loss = 0.85778842, grad/param norm = 1.5245e-01, time/batch = 19.1286s	
 20345/34800 (epoch 29.231), train_loss = 0.84867700, grad/param norm = 1.3569e-01, time/batch = 19.9458s	
+20346/34800 (epoch 29.233), train_loss = 0.82149449, grad/param norm = 1.3265e-01, time/batch = 27.7030s	
