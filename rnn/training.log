@@ -2889,3 +2889,10 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_spacex_epoch3.70_1.
 2808/27000 (epoch 5.200), train_loss = 1.64774448, grad/param norm = 2.2963e-01, time/batch = 0.6239s	
 2809/27000 (epoch 5.202), train_loss = 1.51128534, grad/param norm = 2.1537e-01, time/batch = 0.6260s	
 2810/27000 (epoch 5.204), train_loss = 1.42468701, grad/param norm = 2.2438e-01, time/batch = 0.6486s	
+2811/27000 (epoch 5.206), train_loss = 1.79576953, grad/param norm = 2.2929e-01, time/batch = 0.9096s	
+2812/27000 (epoch 5.207), train_loss = 1.53538444, grad/param norm = 2.2691e-01, time/batch = 1.2389s	
+2813/27000 (epoch 5.209), train_loss = 1.48130257, grad/param norm = 2.3620e-01, time/batch = 0.6288s	
+2814/27000 (epoch 5.211), train_loss = 1.49651623, grad/param norm = 2.1631e-01, time/batch = 0.6266s	
+2815/27000 (epoch 5.213), train_loss = 1.39444435, grad/param norm = 2.1104e-01, time/batch = 0.6339s	
+2816/27000 (epoch 5.215), train_loss = 1.30016524, grad/param norm = 1.9807e-01, time/batch = 0.6481s	
+2817/27000 (epoch 5.217), train_loss = 1.56968542, grad/param norm = 2.3566e-01, time/batch = 0.6475s	
