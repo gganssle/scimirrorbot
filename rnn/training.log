@@ -2637,3 +2637,9 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_astro_alex_epoch3.3
 2550/30300 (epoch 4.208), train_loss = 2.04999599, grad/param norm = 2.2137e-01, time/batch = 0.7082s	
 2551/30300 (epoch 4.210), train_loss = 1.89133936, grad/param norm = 1.9587e-01, time/batch = 0.7309s	
 2552/30300 (epoch 4.211), train_loss = 1.88475556, grad/param norm = 2.0250e-01, time/batch = 0.7242s	
+2553/30300 (epoch 4.213), train_loss = 1.82704582, grad/param norm = 2.0914e-01, time/batch = 0.7712s	
+2554/30300 (epoch 4.215), train_loss = 1.64543237, grad/param norm = 1.8866e-01, time/batch = 0.7011s	
+2555/30300 (epoch 4.216), train_loss = 1.84609672, grad/param norm = 2.1160e-01, time/batch = 0.6866s	
+2556/30300 (epoch 4.218), train_loss = 1.77238419, grad/param norm = 1.8532e-01, time/batch = 0.6891s	
+2557/30300 (epoch 4.219), train_loss = 1.69541745, grad/param norm = 1.9767e-01, time/batch = 0.6880s	
+2558/30300 (epoch 4.221), train_loss = 1.68585040, grad/param norm = 1.8978e-01, time/batch = 0.6867s	
