@@ -31309,3 +31309,4 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_hellonoew_epoch46.4
 30143/32300 (epoch 46.661), train_loss = 0.91697421, grad/param norm = 2.0261e-01, time/batch = 17.6158s	
 30144/32300 (epoch 46.663), train_loss = 0.74756448, grad/param norm = 2.1674e-01, time/batch = 18.4707s	
 30145/32300 (epoch 46.664), train_loss = 0.68775462, grad/param norm = 2.1536e-01, time/batch = 18.3891s	
+30146/32300 (epoch 46.666), train_loss = 0.78688567, grad/param norm = 2.1711e-01, time/batch = 32.0321s	
