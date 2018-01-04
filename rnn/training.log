@@ -26501,3 +26501,4 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_sentedcruz_epoch38.
 25528/32750 (epoch 38.974), train_loss = 0.79756035, grad/param norm = 1.6164e-01, time/batch = 17.2512s	
 25529/32750 (epoch 38.976), train_loss = 0.87613050, grad/param norm = 2.2240e-01, time/batch = 18.1018s	
 25530/32750 (epoch 38.977), train_loss = 0.86476173, grad/param norm = 1.5126e-01, time/batch = 18.3525s	
+25531/32750 (epoch 38.979), train_loss = 0.87165229, grad/param norm = 1.8084e-01, time/batch = 20.5453s	
