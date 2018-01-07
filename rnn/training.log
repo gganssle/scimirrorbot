@@ -2842,3 +2842,10 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_nsagov_epoch6.01_1.
 2783/16650 (epoch 8.357), train_loss = 1.53835639, grad/param norm = 2.5218e-01, time/batch = 0.6380s	
 2784/16650 (epoch 8.360), train_loss = 1.51709562, grad/param norm = 2.4715e-01, time/batch = 0.6467s	
 2785/16650 (epoch 8.363), train_loss = 1.62925753, grad/param norm = 2.5968e-01, time/batch = 0.6479s	
+2786/16650 (epoch 8.366), train_loss = 1.68730609, grad/param norm = 2.6349e-01, time/batch = 1.5929s	
+2787/16650 (epoch 8.369), train_loss = 1.48976968, grad/param norm = 2.3488e-01, time/batch = 0.6786s	
+2788/16650 (epoch 8.372), train_loss = 1.49053797, grad/param norm = 2.3166e-01, time/batch = 0.6459s	
+2789/16650 (epoch 8.375), train_loss = 1.42826617, grad/param norm = 2.3652e-01, time/batch = 0.6396s	
+2790/16650 (epoch 8.378), train_loss = 1.30053432, grad/param norm = 2.3414e-01, time/batch = 0.6306s	
+2791/16650 (epoch 8.381), train_loss = 1.52176936, grad/param norm = 2.5996e-01, time/batch = 0.6355s	
+2792/16650 (epoch 8.384), train_loss = 1.57850768, grad/param norm = 2.4166e-01, time/batch = 0.6325s	
