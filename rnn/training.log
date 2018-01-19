@@ -32503,3 +32503,4 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_nasa_johnson_epoch4
 31269/33650 (epoch 46.462), train_loss = 0.88286643, grad/param norm = 2.0273e-01, time/batch = 17.1359s	
 31270/33650 (epoch 46.464), train_loss = 0.77551976, grad/param norm = 1.9575e-01, time/batch = 19.0548s	
 31271/33650 (epoch 46.465), train_loss = 0.83681824, grad/param norm = 2.5624e-01, time/batch = 18.8947s	
+31272/33650 (epoch 46.467), train_loss = 0.83076601, grad/param norm = 1.9867e-01, time/batch = 40.1690s	
