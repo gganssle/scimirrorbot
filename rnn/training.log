@@ -15780,3 +15780,4 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_dynamicwebpaige_epo
 15235/29900 (epoch 25.477), train_loss = 1.11338950, grad/param norm = 1.5339e-01, time/batch = 18.5947s	
 15236/29900 (epoch 25.478), train_loss = 1.16164014, grad/param norm = 1.6734e-01, time/batch = 20.2872s	
 15237/29900 (epoch 25.480), train_loss = 1.28430984, grad/param norm = 1.5730e-01, time/batch = 19.1695s	
+15238/29900 (epoch 25.482), train_loss = 1.36108865, grad/param norm = 1.7156e-01, time/batch = 24.9302s	
