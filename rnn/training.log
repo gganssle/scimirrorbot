@@ -2591,3 +2591,9 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_astro_wakata_epoch4
 2520/22750 (epoch 5.538), train_loss = 1.65673993, grad/param norm = 1.8325e-01, time/batch = 0.6849s	
 2521/22750 (epoch 5.541), train_loss = 1.36605041, grad/param norm = 2.0153e-01, time/batch = 0.6959s	
 2522/22750 (epoch 5.543), train_loss = 1.38013171, grad/param norm = 1.8777e-01, time/batch = 0.6889s	
+2523/22750 (epoch 5.545), train_loss = 1.76080111, grad/param norm = 2.1225e-01, time/batch = 0.7337s	
+2524/22750 (epoch 5.547), train_loss = 1.38405255, grad/param norm = 1.8437e-01, time/batch = 0.7031s	
+2525/22750 (epoch 5.549), train_loss = 1.48547870, grad/param norm = 2.2244e-01, time/batch = 0.7079s	
+2526/22750 (epoch 5.552), train_loss = 1.71180535, grad/param norm = 2.3635e-01, time/batch = 0.7022s	
+2527/22750 (epoch 5.554), train_loss = 1.75148375, grad/param norm = 2.0844e-01, time/batch = 0.6929s	
+2528/22750 (epoch 5.556), train_loss = 1.57669406, grad/param norm = 2.1061e-01, time/batch = 0.6993s	
