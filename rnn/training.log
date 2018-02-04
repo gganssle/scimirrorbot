@@ -2811,3 +2811,10 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_barackobama_epoch3.
 2724/29800 (epoch 4.570), train_loss = 1.21620458, grad/param norm = 1.9479e-01, time/batch = 0.6540s	
 2725/29800 (epoch 4.572), train_loss = 1.10936563, grad/param norm = 1.8774e-01, time/batch = 0.6638s	
 2726/29800 (epoch 4.574), train_loss = 1.13247785, grad/param norm = 1.8236e-01, time/batch = 0.6682s	
+2727/29800 (epoch 4.576), train_loss = 1.34658023, grad/param norm = 2.1192e-01, time/batch = 1.2077s	
+2728/29800 (epoch 4.577), train_loss = 1.37042491, grad/param norm = 2.2589e-01, time/batch = 1.0074s	
+2729/29800 (epoch 4.579), train_loss = 1.11883108, grad/param norm = 2.0634e-01, time/batch = 0.6758s	
+2730/29800 (epoch 4.581), train_loss = 1.21542009, grad/param norm = 2.2762e-01, time/batch = 0.6743s	
+2731/29800 (epoch 4.582), train_loss = 1.16359211, grad/param norm = 1.9975e-01, time/batch = 0.6605s	
+2732/29800 (epoch 4.584), train_loss = 1.19217816, grad/param norm = 2.2856e-01, time/batch = 0.6582s	
+2733/29800 (epoch 4.586), train_loss = 1.42134127, grad/param norm = 2.4963e-01, time/batch = 0.6507s	
