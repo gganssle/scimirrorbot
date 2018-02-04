@@ -1,4 +1,3 @@
-dynamicwebpaige
 astro_wakata
 barackobama
 cern
