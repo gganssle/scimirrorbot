@@ -11602,3 +11602,4 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_cern_epoch19.54_1.5
 11221/28150 (epoch 19.931), train_loss = 1.05283977, grad/param norm = 1.9034e-01, time/batch = 15.9264s	
 11222/28150 (epoch 19.933), train_loss = 1.06628424, grad/param norm = 1.9693e-01, time/batch = 17.6924s	
 11223/28150 (epoch 19.934), train_loss = 1.10130350, grad/param norm = 1.9275e-01, time/batch = 15.9399s	
+11224/28150 (epoch 19.936), train_loss = 1.23159922, grad/param norm = 2.0570e-01, time/batch = 24.4705s	
