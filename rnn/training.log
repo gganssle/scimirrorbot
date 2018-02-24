@@ -36578,3 +36578,4 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_realdonaldtrump_epo
 35119/35150 (epoch 49.956), train_loss = 0.87826408, grad/param norm = 1.7076e-01, time/batch = 16.5728s	
 35120/35150 (epoch 49.957), train_loss = 0.97098352, grad/param norm = 1.8979e-01, time/batch = 17.6712s	
 35121/35150 (epoch 49.959), train_loss = 0.89437756, grad/param norm = 1.8178e-01, time/batch = 18.4198s	
+35122/35150 (epoch 49.960), train_loss = 0.90164605, grad/param norm = 1.9643e-01, time/batch = 28.7605s	
