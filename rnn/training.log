@@ -17113,3 +17113,4 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_nasakennedy_epoch24
 16471/33250 (epoch 24.768), train_loss = 0.76376499, grad/param norm = 1.6216e-01, time/batch = 18.7297s	
 16472/33250 (epoch 24.770), train_loss = 0.93108066, grad/param norm = 1.8674e-01, time/batch = 16.3333s	
 16473/33250 (epoch 24.771), train_loss = 0.97358687, grad/param norm = 1.8214e-01, time/batch = 18.8357s	
+16474/33250 (epoch 24.773), train_loss = 0.85234770, grad/param norm = 1.6479e-01, time/batch = 28.0882s	
