@@ -12538,3 +12538,4 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_ogjonline_epoch22.3
 12134/26850 (epoch 22.596), train_loss = 1.03953407, grad/param norm = 2.2230e-01, time/batch = 15.1457s	
 12135/26850 (epoch 22.598), train_loss = 0.90293572, grad/param norm = 2.2856e-01, time/batch = 14.1578s	
 12136/26850 (epoch 22.600), train_loss = 0.93334627, grad/param norm = 2.4281e-01, time/batch = 15.0277s	
+12137/26850 (epoch 22.601), train_loss = 0.77716357, grad/param norm = 1.6829e-01, time/batch = 27.5313s	
