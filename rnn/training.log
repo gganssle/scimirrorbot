@@ -2717,3 +2717,9 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_callanbentley_epoch
 2638/26350 (epoch 5.006), train_loss = 1.88511789, grad/param norm = 1.8309e-01, time/batch = 0.6586s	
 2639/26350 (epoch 5.008), train_loss = 2.03848966, grad/param norm = 2.2154e-01, time/batch = 0.6789s	
 2640/26350 (epoch 5.009), train_loss = 1.98534636, grad/param norm = 2.0133e-01, time/batch = 0.6868s	
+2641/26350 (epoch 5.011), train_loss = 2.09085153, grad/param norm = 1.9545e-01, time/batch = 1.4501s	
+2642/26350 (epoch 5.013), train_loss = 2.00444085, grad/param norm = 1.9316e-01, time/batch = 0.7531s	
+2643/26350 (epoch 5.015), train_loss = 2.26763749, grad/param norm = 2.1198e-01, time/batch = 0.6694s	
+2644/26350 (epoch 5.017), train_loss = 2.14293937, grad/param norm = 1.9126e-01, time/batch = 0.6718s	
+2645/26350 (epoch 5.019), train_loss = 2.05490355, grad/param norm = 1.9546e-01, time/batch = 0.6794s	
+2646/26350 (epoch 5.021), train_loss = 1.87424442, grad/param norm = 1.7364e-01, time/batch = 0.7080s	
