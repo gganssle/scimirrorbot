@@ -11595,3 +11595,4 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_tuff_cookie_epoch17
 11172/32250 (epoch 17.321), train_loss = 1.24737317, grad/param norm = 1.3263e-01, time/batch = 16.9556s	
 11173/32250 (epoch 17.322), train_loss = 1.31308083, grad/param norm = 1.5492e-01, time/batch = 18.9320s	
 11174/32250 (epoch 17.324), train_loss = 1.33285871, grad/param norm = 1.7048e-01, time/batch = 15.1697s	
+11175/32250 (epoch 17.326), train_loss = 1.34361899, grad/param norm = 1.3973e-01, time/batch = 38.7101s	
