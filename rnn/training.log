@@ -2616,3 +2616,10 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_asapscience_epoch4.
 2547/21600 (epoch 5.896), train_loss = 1.48570701, grad/param norm = 2.1614e-01, time/batch = 0.6950s	
 2548/21600 (epoch 5.898), train_loss = 1.67784063, grad/param norm = 2.1337e-01, time/batch = 0.7081s	
 2549/21600 (epoch 5.900), train_loss = 1.68130995, grad/param norm = 1.8691e-01, time/batch = 0.7192s	
+2550/21600 (epoch 5.903), train_loss = 1.82664189, grad/param norm = 2.3096e-01, time/batch = 1.2012s	
+2551/21600 (epoch 5.905), train_loss = 1.65378801, grad/param norm = 2.0536e-01, time/batch = 1.1760s	
+2552/21600 (epoch 5.907), train_loss = 1.70223066, grad/param norm = 2.1263e-01, time/batch = 0.7190s	
+2553/21600 (epoch 5.910), train_loss = 1.92568520, grad/param norm = 2.3643e-01, time/batch = 0.7130s	
+2554/21600 (epoch 5.912), train_loss = 1.64804690, grad/param norm = 2.2311e-01, time/batch = 0.6988s	
+2555/21600 (epoch 5.914), train_loss = 1.72177321, grad/param norm = 2.0173e-01, time/batch = 0.6839s	
+2556/21600 (epoch 5.917), train_loss = 1.76467969, grad/param norm = 2.2398e-01, time/batch = 0.6852s	
