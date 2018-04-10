@@ -16713,3 +16713,4 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_neiltyson_epoch23.8
 16072/33550 (epoch 23.952), train_loss = 1.38519094, grad/param norm = 1.9258e-01, time/batch = 18.1970s	
 16073/33550 (epoch 23.954), train_loss = 1.47288057, grad/param norm = 1.8654e-01, time/batch = 15.1871s	
 16074/33550 (epoch 23.955), train_loss = 1.24917855, grad/param norm = 1.7166e-01, time/batch = 19.1185s	
+16075/33550 (epoch 23.957), train_loss = 1.29813249, grad/param norm = 1.6484e-01, time/batch = 31.8486s	
