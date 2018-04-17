@@ -15722,3 +15722,4 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_gopropeller_epoch24
 15163/31150 (epoch 24.339), train_loss = 0.91529420, grad/param norm = 1.6778e-01, time/batch = 17.5272s	
 15164/31150 (epoch 24.340), train_loss = 0.93055684, grad/param norm = 1.8464e-01, time/batch = 16.8608s	
 15165/31150 (epoch 24.342), train_loss = 1.01653743, grad/param norm = 1.8111e-01, time/batch = 20.4264s	
+15166/31150 (epoch 24.343), train_loss = 0.95964766, grad/param norm = 1.7724e-01, time/batch = 22.3239s	
