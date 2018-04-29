@@ -2668,3 +2668,10 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_dddneworleans_epoch
 2577/32300 (epoch 3.989), train_loss = 1.52135277, grad/param norm = 1.8007e-01, time/batch = 0.6885s	
 2578/32300 (epoch 3.991), train_loss = 1.61879364, grad/param norm = 1.8494e-01, time/batch = 0.6906s	
 2579/32300 (epoch 3.992), train_loss = 1.53416280, grad/param norm = 1.8669e-01, time/batch = 0.7103s	
+2580/32300 (epoch 3.994), train_loss = 1.75118234, grad/param norm = 2.2158e-01, time/batch = 1.3893s	
+2581/32300 (epoch 3.995), train_loss = 1.53533498, grad/param norm = 2.0762e-01, time/batch = 0.7958s	
+2582/32300 (epoch 3.997), train_loss = 1.57777053, grad/param norm = 2.0002e-01, time/batch = 0.6716s	
+2583/32300 (epoch 3.998), train_loss = 1.70823677, grad/param norm = 2.2153e-01, time/batch = 0.6908s	
+2584/32300 (epoch 4.000), train_loss = 1.60931689, grad/param norm = 2.2158e-01, time/batch = 0.6938s	
+2585/32300 (epoch 4.002), train_loss = 1.82199027, grad/param norm = 2.0772e-01, time/batch = 0.6823s	
+2586/32300 (epoch 4.003), train_loss = 1.60135795, grad/param norm = 1.9894e-01, time/batch = 0.6927s	
