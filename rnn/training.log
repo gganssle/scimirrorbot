@@ -2680,3 +2680,11 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_wdsu_epoch4.56_1.87
 2609/21950 (epoch 5.943), train_loss = 1.72283068, grad/param norm = 2.6770e-01, time/batch = 0.6824s	
 2610/21950 (epoch 5.945), train_loss = 1.51507532, grad/param norm = 2.3134e-01, time/batch = 0.6849s	
 2611/21950 (epoch 5.948), train_loss = 1.69778313, grad/param norm = 2.4759e-01, time/batch = 0.6939s	
+2612/21950 (epoch 5.950), train_loss = 1.65861048, grad/param norm = 2.2299e-01, time/batch = 0.8955s	
+2613/21950 (epoch 5.952), train_loss = 1.66883127, grad/param norm = 2.6899e-01, time/batch = 1.4133s	
+2614/21950 (epoch 5.954), train_loss = 1.68072814, grad/param norm = 2.4963e-01, time/batch = 0.6990s	
+2615/21950 (epoch 5.957), train_loss = 1.67016426, grad/param norm = 2.6366e-01, time/batch = 0.6841s	
+2616/21950 (epoch 5.959), train_loss = 1.54805904, grad/param norm = 2.4709e-01, time/batch = 0.6894s	
+2617/21950 (epoch 5.961), train_loss = 1.52720154, grad/param norm = 2.2359e-01, time/batch = 0.6905s	
+2618/21950 (epoch 5.964), train_loss = 1.59963482, grad/param norm = 2.4215e-01, time/batch = 0.6833s	
+2619/21950 (epoch 5.966), train_loss = 1.60735956, grad/param norm = 2.4589e-01, time/batch = 0.6770s	
