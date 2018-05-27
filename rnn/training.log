@@ -2811,3 +2811,10 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_astro_mike_epoch3.4
 2726/29450 (epoch 4.628), train_loss = 1.70732843, grad/param norm = 2.0583e-01, time/batch = 0.6517s	
 2727/29450 (epoch 4.630), train_loss = 1.58104299, grad/param norm = 2.1050e-01, time/batch = 0.6601s	
 2728/29450 (epoch 4.632), train_loss = 1.54570409, grad/param norm = 1.9062e-01, time/batch = 0.7157s	
+2729/29450 (epoch 4.633), train_loss = 1.61458113, grad/param norm = 2.2171e-01, time/batch = 1.4308s	
+2730/29450 (epoch 4.635), train_loss = 1.40966746, grad/param norm = 1.8828e-01, time/batch = 0.6648s	
+2731/29450 (epoch 4.637), train_loss = 1.58365266, grad/param norm = 2.1162e-01, time/batch = 0.6757s	
+2732/29450 (epoch 4.638), train_loss = 1.45361826, grad/param norm = 2.0386e-01, time/batch = 0.6660s	
+2733/29450 (epoch 4.640), train_loss = 1.42536604, grad/param norm = 1.7859e-01, time/batch = 0.6634s	
+2734/29450 (epoch 4.642), train_loss = 1.46154720, grad/param norm = 1.7227e-01, time/batch = 0.6613s	
+2735/29450 (epoch 4.643), train_loss = 1.42635488, grad/param norm = 1.7698e-01, time/batch = 0.6614s	
