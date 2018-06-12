@@ -1,4 +1,3 @@
-astro_mike
 tedcruz
 wiredscience
 torproject
