@@ -21835,3 +21835,4 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_wiredscience_epoch3
 21076/29850 (epoch 35.303), train_loss = 0.79078191, grad/param norm = 2.1011e-01, time/batch = 19.4401s	
 21077/29850 (epoch 35.305), train_loss = 0.91044889, grad/param norm = 2.2009e-01, time/batch = 14.5835s	
 21078/29850 (epoch 35.307), train_loss = 0.93691374, grad/param norm = 2.4749e-01, time/batch = 15.5495s	
+21079/29850 (epoch 35.308), train_loss = 0.74161380, grad/param norm = 2.0824e-01, time/batch = 33.5483s	
