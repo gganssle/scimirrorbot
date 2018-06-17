@@ -2614,3 +2614,10 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_torproject_epoch3.4
 2527/29450 (epoch 4.290), train_loss = 1.84545862, grad/param norm = 1.8866e-01, time/batch = 0.6851s	
 2528/29450 (epoch 4.292), train_loss = 1.79994427, grad/param norm = 2.0695e-01, time/batch = 0.6951s	
 2529/29450 (epoch 4.294), train_loss = 2.02174794, grad/param norm = 2.1286e-01, time/batch = 0.7125s	
+2530/29450 (epoch 4.295), train_loss = 1.64568989, grad/param norm = 1.9562e-01, time/batch = 1.2261s	
+2531/29450 (epoch 4.297), train_loss = 1.98605837, grad/param norm = 2.0351e-01, time/batch = 1.0472s	
+2532/29450 (epoch 4.299), train_loss = 1.76461894, grad/param norm = 2.0835e-01, time/batch = 0.7181s	
+2533/29450 (epoch 4.301), train_loss = 1.90115176, grad/param norm = 1.9478e-01, time/batch = 0.7134s	
+2534/29450 (epoch 4.302), train_loss = 1.85274321, grad/param norm = 1.8591e-01, time/batch = 0.6874s	
+2535/29450 (epoch 4.304), train_loss = 1.71779521, grad/param norm = 1.8614e-01, time/batch = 0.6967s	
+2536/29450 (epoch 4.306), train_loss = 1.90895857, grad/param norm = 1.9158e-01, time/batch = 0.6950s	
