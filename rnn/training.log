@@ -2738,3 +2738,10 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_nasaearth_epoch3.83
 2659/26100 (epoch 5.094), train_loss = 1.55750875, grad/param norm = 1.8390e-01, time/batch = 0.6726s	
 2660/26100 (epoch 5.096), train_loss = 1.47693848, grad/param norm = 2.0068e-01, time/batch = 0.6592s	
 2661/26100 (epoch 5.098), train_loss = 1.47774566, grad/param norm = 1.8999e-01, time/batch = 0.6638s	
+2662/26100 (epoch 5.100), train_loss = 1.62715328, grad/param norm = 2.1687e-01, time/batch = 0.6993s	
+2663/26100 (epoch 5.102), train_loss = 1.52617852, grad/param norm = 1.9789e-01, time/batch = 0.6714s	
+2664/26100 (epoch 5.103), train_loss = 1.66190349, grad/param norm = 2.0703e-01, time/batch = 0.6626s	
+2665/26100 (epoch 5.105), train_loss = 1.31665680, grad/param norm = 1.7698e-01, time/batch = 0.6833s	
+2666/26100 (epoch 5.107), train_loss = 1.44467383, grad/param norm = 1.8357e-01, time/batch = 0.6964s	
+2667/26100 (epoch 5.109), train_loss = 1.66209181, grad/param norm = 1.9326e-01, time/batch = 0.6916s	
+2668/26100 (epoch 5.111), train_loss = 1.54501998, grad/param norm = 1.9518e-01, time/batch = 0.6611s	
