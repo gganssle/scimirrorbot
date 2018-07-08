@@ -2796,3 +2796,10 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_sarahpalinusa_epoch
 2743/14200 (epoch 9.658), train_loss = 1.54026706, grad/param norm = 2.1949e-01, time/batch = 0.6826s	
 2744/14200 (epoch 9.662), train_loss = 1.52363085, grad/param norm = 2.4064e-01, time/batch = 0.6533s	
 2745/14200 (epoch 9.665), train_loss = 1.61025830, grad/param norm = 2.2513e-01, time/batch = 0.6605s	
+2746/14200 (epoch 9.669), train_loss = 1.65621444, grad/param norm = 2.2564e-01, time/batch = 0.6920s	
+2747/14200 (epoch 9.673), train_loss = 1.44246905, grad/param norm = 2.0866e-01, time/batch = 0.6824s	
+2748/14200 (epoch 9.676), train_loss = 1.54506721, grad/param norm = 2.5505e-01, time/batch = 0.6503s	
+2749/14200 (epoch 9.680), train_loss = 1.48770608, grad/param norm = 2.1742e-01, time/batch = 0.6452s	
+2750/14200 (epoch 9.683), train_loss = 1.61486404, grad/param norm = 2.3234e-01, time/batch = 0.6512s	
+2751/14200 (epoch 9.687), train_loss = 1.37966827, grad/param norm = 2.2901e-01, time/batch = 0.6499s	
+2752/14200 (epoch 9.690), train_loss = 1.65600456, grad/param norm = 2.4501e-01, time/batch = 0.6493s	
