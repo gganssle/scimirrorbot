@@ -2692,3 +2692,9 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_cmdr_hadfield_epoch
 2613/26100 (epoch 5.006), train_loss = 1.82016010, grad/param norm = 1.8953e-01, time/batch = 0.6814s	
 2614/26100 (epoch 5.008), train_loss = 1.75457006, grad/param norm = 1.8824e-01, time/batch = 0.7019s	
 2615/26100 (epoch 5.010), train_loss = 1.91373864, grad/param norm = 1.8791e-01, time/batch = 0.7456s	
+2616/26100 (epoch 5.011), train_loss = 1.78401392, grad/param norm = 1.9587e-01, time/batch = 1.4636s	
+2617/26100 (epoch 5.013), train_loss = 2.02694272, grad/param norm = 1.8750e-01, time/batch = 0.7021s	
+2618/26100 (epoch 5.015), train_loss = 1.80472151, grad/param norm = 1.8552e-01, time/batch = 0.7222s	
+2619/26100 (epoch 5.017), train_loss = 1.72380269, grad/param norm = 1.8153e-01, time/batch = 0.6865s	
+2620/26100 (epoch 5.019), train_loss = 1.96424805, grad/param norm = 1.8803e-01, time/batch = 0.6933s	
+2621/26100 (epoch 5.021), train_loss = 1.85729049, grad/param norm = 2.0073e-01, time/batch = 0.6920s	
