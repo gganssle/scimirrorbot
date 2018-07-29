@@ -2666,3 +2666,10 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_meagenpollock_epoch
 2587/25650 (epoch 5.043), train_loss = 1.50596990, grad/param norm = 1.8882e-01, time/batch = 0.6870s	
 2588/25650 (epoch 5.045), train_loss = 1.67349294, grad/param norm = 1.9779e-01, time/batch = 0.6962s	
 2589/25650 (epoch 5.047), train_loss = 1.53902789, grad/param norm = 1.9435e-01, time/batch = 0.7141s	
+2590/25650 (epoch 5.049), train_loss = 1.80474243, grad/param norm = 2.0270e-01, time/batch = 1.3564s	
+2591/25650 (epoch 5.051), train_loss = 1.65471498, grad/param norm = 2.3039e-01, time/batch = 0.8749s	
+2592/25650 (epoch 5.053), train_loss = 1.81595642, grad/param norm = 2.3090e-01, time/batch = 0.7159s	
+2593/25650 (epoch 5.055), train_loss = 1.57022531, grad/param norm = 1.9325e-01, time/batch = 0.6990s	
+2594/25650 (epoch 5.057), train_loss = 1.56523440, grad/param norm = 1.8811e-01, time/batch = 0.6944s	
+2595/25650 (epoch 5.058), train_loss = 1.76544819, grad/param norm = 2.2455e-01, time/batch = 0.6964s	
+2596/25650 (epoch 5.060), train_loss = 1.74261017, grad/param norm = 1.9283e-01, time/batch = 0.6956s	
