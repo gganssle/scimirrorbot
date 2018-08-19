@@ -2872,3 +2872,10 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_forbestech_epoch4.5
 2801/21950 (epoch 6.380), train_loss = 1.69725359, grad/param norm = 2.0561e-01, time/batch = 0.6275s	
 2802/21950 (epoch 6.383), train_loss = 1.58835749, grad/param norm = 2.0440e-01, time/batch = 0.6468s	
 2803/21950 (epoch 6.385), train_loss = 1.74708582, grad/param norm = 2.0493e-01, time/batch = 0.6464s	
+2804/21950 (epoch 6.387), train_loss = 1.70713661, grad/param norm = 2.0808e-01, time/batch = 1.1043s	
+2805/21950 (epoch 6.390), train_loss = 1.63473529, grad/param norm = 2.0791e-01, time/batch = 1.0009s	
+2806/21950 (epoch 6.392), train_loss = 1.60058138, grad/param norm = 2.1328e-01, time/batch = 0.6351s	
+2807/21950 (epoch 6.394), train_loss = 1.65459956, grad/param norm = 2.1743e-01, time/batch = 0.6344s	
+2808/21950 (epoch 6.396), train_loss = 1.75869193, grad/param norm = 2.2428e-01, time/batch = 0.6384s	
+2809/21950 (epoch 6.399), train_loss = 1.77629450, grad/param norm = 2.2268e-01, time/batch = 0.6317s	
+2810/21950 (epoch 6.401), train_loss = 1.78526437, grad/param norm = 2.2432e-01, time/batch = 0.6381s	
