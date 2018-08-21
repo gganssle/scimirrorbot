@@ -1,1 +1,3 @@
 .@julialanguage says:
+½loy #julialang on #julialang
+@DataWookie: Static and Ahead of Time (AOT) compiled Julia on theinglay meetups on stat
