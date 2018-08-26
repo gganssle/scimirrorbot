@@ -2640,3 +2640,10 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_github_epoch4.36_1.
 2567/22950 (epoch 5.593), train_loss = 1.43245675, grad/param norm = 2.1123e-01, time/batch = 0.6846s	
 2568/22950 (epoch 5.595), train_loss = 1.50185424, grad/param norm = 2.2062e-01, time/batch = 0.7026s	
 2569/22950 (epoch 5.597), train_loss = 1.69890538, grad/param norm = 2.4165e-01, time/batch = 0.7185s	
+2570/22950 (epoch 5.599), train_loss = 1.65919588, grad/param norm = 2.5012e-01, time/batch = 1.0527s	
+2571/22950 (epoch 5.601), train_loss = 1.61679131, grad/param norm = 2.3368e-01, time/batch = 1.2351s	
+2572/22950 (epoch 5.603), train_loss = 1.75662716, grad/param norm = 2.2630e-01, time/batch = 0.7174s	
+2573/22950 (epoch 5.606), train_loss = 1.56143356, grad/param norm = 2.1724e-01, time/batch = 0.6947s	
+2574/22950 (epoch 5.608), train_loss = 1.56824664, grad/param norm = 2.1437e-01, time/batch = 0.6935s	
+2575/22950 (epoch 5.610), train_loss = 1.57249090, grad/param norm = 2.0439e-01, time/batch = 0.6949s	
+2576/22950 (epoch 5.612), train_loss = 1.61545028, grad/param norm = 2.0309e-01, time/batch = 0.6934s	
