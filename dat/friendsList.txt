@@ -1,4 +1,3 @@
-forbestech
 github
 dd_de_b
 npr
