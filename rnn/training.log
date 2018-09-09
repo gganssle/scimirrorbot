@@ -2651,3 +2651,10 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_npr_epoch2.96_1.868
 2556/33800 (epoch 3.781), train_loss = 1.77433689, grad/param norm = 1.7027e-01, time/batch = 0.6797s	
 2557/33800 (epoch 3.783), train_loss = 1.67177545, grad/param norm = 1.6949e-01, time/batch = 0.6896s	
 2558/33800 (epoch 3.784), train_loss = 1.80076906, grad/param norm = 1.6522e-01, time/batch = 0.6910s	
+2559/33800 (epoch 3.786), train_loss = 1.83216317, grad/param norm = 1.6966e-01, time/batch = 0.7459s	
+2560/33800 (epoch 3.787), train_loss = 1.69230249, grad/param norm = 1.7659e-01, time/batch = 0.6992s	
+2561/33800 (epoch 3.788), train_loss = 1.74767894, grad/param norm = 1.8599e-01, time/batch = 0.6910s	
+2562/33800 (epoch 3.790), train_loss = 1.65362459, grad/param norm = 1.6249e-01, time/batch = 0.6899s	
+2563/33800 (epoch 3.791), train_loss = 1.58895377, grad/param norm = 1.6172e-01, time/batch = 0.6862s	
+2564/33800 (epoch 3.793), train_loss = 1.85406326, grad/param norm = 1.8554e-01, time/batch = 0.6898s	
+2565/33800 (epoch 3.794), train_loss = 1.93856814, grad/param norm = 2.1396e-01, time/batch = 0.6925s	
