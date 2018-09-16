@@ -2797,3 +2797,10 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_theagu_epoch2.81_1.
 2698/35600 (epoch 3.789), train_loss = 1.69948603, grad/param norm = 2.0462e-01, time/batch = 0.6727s	
 2699/35600 (epoch 3.791), train_loss = 1.58710727, grad/param norm = 1.8729e-01, time/batch = 0.6890s	
 2700/35600 (epoch 3.792), train_loss = 1.58796457, grad/param norm = 2.0054e-01, time/batch = 0.6796s	
+2701/35600 (epoch 3.794), train_loss = 1.73323288, grad/param norm = 1.9955e-01, time/batch = 1.3703s	
+2702/35600 (epoch 3.795), train_loss = 1.88459863, grad/param norm = 2.3055e-01, time/batch = 0.9610s	
+2703/35600 (epoch 3.796), train_loss = 1.64169981, grad/param norm = 2.1441e-01, time/batch = 0.6605s	
+2704/35600 (epoch 3.798), train_loss = 1.58328905, grad/param norm = 1.8776e-01, time/batch = 0.6553s	
+2705/35600 (epoch 3.799), train_loss = 1.72245861, grad/param norm = 2.0086e-01, time/batch = 0.6599s	
+2706/35600 (epoch 3.801), train_loss = 1.62695069, grad/param norm = 2.0172e-01, time/batch = 0.6473s	
+2707/35600 (epoch 3.802), train_loss = 1.76740657, grad/param norm = 2.0234e-01, time/batch = 0.6490s	
