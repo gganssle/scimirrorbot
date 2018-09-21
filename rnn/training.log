@@ -31388,3 +31388,4 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_theagu_epoch42.13_1
 30136/35600 (epoch 42.326), train_loss = 0.74435399, grad/param norm = 2.0841e-01, time/batch = 19.3090s	
 30137/35600 (epoch 42.327), train_loss = 0.79922484, grad/param norm = 2.1723e-01, time/batch = 18.8147s	
 30138/35600 (epoch 42.329), train_loss = 0.56501678, grad/param norm = 2.0203e-01, time/batch = 19.8076s	
+30139/35600 (epoch 42.330), train_loss = 0.64257462, grad/param norm = 2.0735e-01, time/batch = 45.6491s	
