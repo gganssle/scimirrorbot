@@ -29730,3 +29730,4 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_stressrelated_epoch
 28615/34100 (epoch 41.957), train_loss = 1.08407205, grad/param norm = 1.4672e-01, time/batch = 18.8863s	
 28616/34100 (epoch 41.959), train_loss = 1.05272095, grad/param norm = 1.7417e-01, time/batch = 19.5565s	
 28617/34100 (epoch 41.960), train_loss = 1.03141289, grad/param norm = 1.6530e-01, time/batch = 19.5659s	
+28618/34100 (epoch 41.962), train_loss = 1.16222156, grad/param norm = 1.6397e-01, time/batch = 37.7582s	
