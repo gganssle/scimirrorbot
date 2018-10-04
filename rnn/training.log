@@ -25300,3 +25300,4 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_realbencarson_epoch
 24434/29950 (epoch 40.791), train_loss = 0.67786848, grad/param norm = 1.7052e-01, time/batch = 18.4949s	
 24435/29950 (epoch 40.793), train_loss = 0.81069042, grad/param norm = 2.1062e-01, time/batch = 18.8200s	
 24436/29950 (epoch 40.795), train_loss = 0.88544392, grad/param norm = 2.1662e-01, time/batch = 23.1113s	
+24437/29950 (epoch 40.796), train_loss = 0.71799144, grad/param norm = 1.6485e-01, time/batch = 40.8160s	
