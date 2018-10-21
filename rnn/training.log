@@ -2748,3 +2748,12 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_flotus44_epoch2.85_
 2651/35100 (epoch 3.776), train_loss = 1.47792417, grad/param norm = 1.8400e-01, time/batch = 0.6621s	
 2652/35100 (epoch 3.778), train_loss = 1.28633265, grad/param norm = 1.8623e-01, time/batch = 0.6650s	
 2653/35100 (epoch 3.779), train_loss = 1.25564537, grad/param norm = 1.7352e-01, time/batch = 0.6620s	
+2654/35100 (epoch 3.781), train_loss = 1.48871381, grad/param norm = 2.0775e-01, time/batch = 0.6832s	
+2655/35100 (epoch 3.782), train_loss = 1.30733382, grad/param norm = 1.9556e-01, time/batch = 0.7139s	
+2656/35100 (epoch 3.783), train_loss = 1.35903785, grad/param norm = 1.9538e-01, time/batch = 0.6622s	
+2657/35100 (epoch 3.785), train_loss = 1.59768377, grad/param norm = 2.1067e-01, time/batch = 0.6622s	
+2658/35100 (epoch 3.786), train_loss = 1.66178494, grad/param norm = 2.1320e-01, time/batch = 0.6615s	
+2659/35100 (epoch 3.788), train_loss = 1.59756842, grad/param norm = 2.0603e-01, time/batch = 0.6632s	
+2660/35100 (epoch 3.789), train_loss = 1.37352419, grad/param norm = 2.1693e-01, time/batch = 0.6613s	
+2661/35100 (epoch 3.791), train_loss = 1.40110820, grad/param norm = 2.3359e-01, time/batch = 0.6619s	
+2662/35100 (epoch 3.792), train_loss = 1.40987020, grad/param norm = 1.9931e-01, time/batch = 0.6978s	
