@@ -2741,3 +2741,10 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_flotus44_epoch2.85_
 2644/35100 (epoch 3.766), train_loss = 1.44203707, grad/param norm = 2.2282e-01, time/batch = 0.6643s	
 2645/35100 (epoch 3.768), train_loss = 1.26572558, grad/param norm = 1.9556e-01, time/batch = 0.6749s	
 2646/35100 (epoch 3.769), train_loss = 1.66761526, grad/param norm = 1.9405e-01, time/batch = 0.6674s	
+2647/35100 (epoch 3.771), train_loss = 1.42791161, grad/param norm = 2.0024e-01, time/batch = 1.2386s	
+2648/35100 (epoch 3.772), train_loss = 1.24128087, grad/param norm = 1.7669e-01, time/batch = 0.9400s	
+2649/35100 (epoch 3.774), train_loss = 1.49124158, grad/param norm = 2.2300e-01, time/batch = 0.6612s	
+2650/35100 (epoch 3.775), train_loss = 1.37978928, grad/param norm = 1.9070e-01, time/batch = 0.6603s	
+2651/35100 (epoch 3.776), train_loss = 1.47792417, grad/param norm = 1.8400e-01, time/batch = 0.6621s	
+2652/35100 (epoch 3.778), train_loss = 1.28633265, grad/param norm = 1.8623e-01, time/batch = 0.6650s	
+2653/35100 (epoch 3.779), train_loss = 1.25564537, grad/param norm = 1.7352e-01, time/batch = 0.6620s	
