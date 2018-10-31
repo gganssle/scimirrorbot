@@ -19827,3 +19827,4 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_wired_epoch27.66_1.
 19049/34350 (epoch 27.728), train_loss = 1.01711023, grad/param norm = 1.9915e-01, time/batch = 18.8058s	
 19050/34350 (epoch 27.729), train_loss = 1.07771009, grad/param norm = 1.4279e-01, time/batch = 19.7369s	
 19051/34350 (epoch 27.731), train_loss = 1.09466413, grad/param norm = 1.7783e-01, time/batch = 19.6371s	
+19052/34350 (epoch 27.732), train_loss = 1.16158222, grad/param norm = 1.9027e-01, time/batch = 36.2952s	
