@@ -2925,3 +2925,11 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_carlyfiorina_epoch3
 2842/28150 (epoch 5.048), train_loss = 1.45287174, grad/param norm = 2.0326e-01, time/batch = 0.6185s	
 2843/28150 (epoch 5.050), train_loss = 1.60841365, grad/param norm = 2.3434e-01, time/batch = 0.6283s	
 2844/28150 (epoch 5.052), train_loss = 1.54147062, grad/param norm = 2.1649e-01, time/batch = 0.6240s	
+2845/28150 (epoch 5.053), train_loss = 1.57623436, grad/param norm = 2.4474e-01, time/batch = 1.0134s	
+2846/28150 (epoch 5.055), train_loss = 1.37339500, grad/param norm = 2.1220e-01, time/batch = 1.2187s	
+2847/28150 (epoch 5.057), train_loss = 1.64553361, grad/param norm = 2.5295e-01, time/batch = 0.6191s	
+2848/28150 (epoch 5.059), train_loss = 1.58581464, grad/param norm = 2.6229e-01, time/batch = 0.6239s	
+2849/28150 (epoch 5.060), train_loss = 1.36074699, grad/param norm = 2.1031e-01, time/batch = 0.6182s	
+2850/28150 (epoch 5.062), train_loss = 1.59691096, grad/param norm = 2.3102e-01, time/batch = 0.6189s	
+2851/28150 (epoch 5.064), train_loss = 1.44128986, grad/param norm = 2.0417e-01, time/batch = 0.6190s	
+2852/28150 (epoch 5.066), train_loss = 1.66486032, grad/param norm = 2.4939e-01, time/batch = 0.6186s	
