@@ -15585,3 +15585,4 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_carlyfiorina_epoch2
 15069/28150 (epoch 26.766), train_loss = 0.98654788, grad/param norm = 2.4690e-01, time/batch = 17.5642s	
 15070/28150 (epoch 26.767), train_loss = 0.93937737, grad/param norm = 2.1858e-01, time/batch = 18.5745s	
 15071/28150 (epoch 26.769), train_loss = 1.06343134, grad/param norm = 2.2685e-01, time/batch = 18.4894s	
+15072/28150 (epoch 26.771), train_loss = 0.87367287, grad/param norm = 2.2611e-01, time/batch = 33.6357s	
