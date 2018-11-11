@@ -2799,3 +2799,10 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_bbctech_epoch6.17_1
 2740/16200 (epoch 8.457), train_loss = 1.65081651, grad/param norm = 2.0018e-01, time/batch = 0.6449s	
 2741/16200 (epoch 8.460), train_loss = 1.69648274, grad/param norm = 2.2717e-01, time/batch = 0.6574s	
 2742/16200 (epoch 8.463), train_loss = 1.65964317, grad/param norm = 2.2359e-01, time/batch = 0.6440s	
+2743/16200 (epoch 8.466), train_loss = 1.69966707, grad/param norm = 2.2153e-01, time/batch = 1.0933s	
+2744/16200 (epoch 8.469), train_loss = 1.63542993, grad/param norm = 2.0411e-01, time/batch = 1.2269s	
+2745/16200 (epoch 8.472), train_loss = 1.60365500, grad/param norm = 2.1220e-01, time/batch = 0.6444s	
+2746/16200 (epoch 8.475), train_loss = 1.72356189, grad/param norm = 2.1684e-01, time/batch = 0.6467s	
+2747/16200 (epoch 8.478), train_loss = 1.71125056, grad/param norm = 1.9969e-01, time/batch = 0.6443s	
+2748/16200 (epoch 8.481), train_loss = 1.67989513, grad/param norm = 2.1748e-01, time/batch = 0.6410s	
+2749/16200 (epoch 8.485), train_loss = 1.70093461, grad/param norm = 2.3916e-01, time/batch = 0.6423s	
