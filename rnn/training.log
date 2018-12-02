@@ -2740,3 +2740,10 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_awsstartups_epoch2.
 2645/33600 (epoch 3.936), train_loss = 1.55210923, grad/param norm = 2.0399e-01, time/batch = 0.6764s	
 2646/33600 (epoch 3.938), train_loss = 1.45391674, grad/param norm = 1.9283e-01, time/batch = 0.6842s	
 2647/33600 (epoch 3.939), train_loss = 1.57480892, grad/param norm = 1.7946e-01, time/batch = 0.6650s	
+2648/33600 (epoch 3.940), train_loss = 1.53627624, grad/param norm = 1.8637e-01, time/batch = 1.1071s	
+2649/33600 (epoch 3.942), train_loss = 1.56310545, grad/param norm = 1.9356e-01, time/batch = 1.2780s	
+2650/33600 (epoch 3.943), train_loss = 1.59348233, grad/param norm = 1.8736e-01, time/batch = 0.6657s	
+2651/33600 (epoch 3.945), train_loss = 1.45616497, grad/param norm = 1.9748e-01, time/batch = 0.6604s	
+2652/33600 (epoch 3.946), train_loss = 1.25325107, grad/param norm = 1.6475e-01, time/batch = 0.6585s	
+2653/33600 (epoch 3.948), train_loss = 1.54168968, grad/param norm = 2.1591e-01, time/batch = 0.6587s	
+2654/33600 (epoch 3.949), train_loss = 1.60082793, grad/param norm = 1.9894e-01, time/batch = 0.6630s	
