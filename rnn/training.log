@@ -2876,3 +2876,11 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_soumithchintala_epo
 2819/16000 (epoch 8.809), train_loss = 1.78365418, grad/param norm = 2.1999e-01, time/batch = 0.6513s	
 2820/16000 (epoch 8.812), train_loss = 1.81019167, grad/param norm = 2.1938e-01, time/batch = 0.6578s	
 2821/16000 (epoch 8.816), train_loss = 1.70851656, grad/param norm = 1.9651e-01, time/batch = 0.6466s	
+2822/16000 (epoch 8.819), train_loss = 1.69663405, grad/param norm = 2.1501e-01, time/batch = 1.2163s	
+2823/16000 (epoch 8.822), train_loss = 1.73993171, grad/param norm = 2.1924e-01, time/batch = 1.0203s	
+2824/16000 (epoch 8.825), train_loss = 1.96467072, grad/param norm = 2.3338e-01, time/batch = 0.6237s	
+2825/16000 (epoch 8.828), train_loss = 1.92103841, grad/param norm = 2.3500e-01, time/batch = 0.6277s	
+2826/16000 (epoch 8.831), train_loss = 1.84024979, grad/param norm = 2.2069e-01, time/batch = 0.6330s	
+2827/16000 (epoch 8.834), train_loss = 1.94246145, grad/param norm = 2.7173e-01, time/batch = 0.6328s	
+2828/16000 (epoch 8.838), train_loss = 1.58389821, grad/param norm = 2.3399e-01, time/batch = 0.6439s	
+2829/16000 (epoch 8.841), train_loss = 1.65801529, grad/param norm = 2.1293e-01, time/batch = 0.6634s	
