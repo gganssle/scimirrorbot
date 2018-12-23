@@ -2856,3 +2856,10 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_ubersein_epoch3.05_
 2763/32750 (epoch 4.218), train_loss = 1.70285060, grad/param norm = 1.9101e-01, time/batch = 0.6360s	
 2764/32750 (epoch 4.220), train_loss = 1.95116503, grad/param norm = 2.0903e-01, time/batch = 0.6447s	
 2765/32750 (epoch 4.221), train_loss = 1.82243781, grad/param norm = 1.6846e-01, time/batch = 0.6631s	
+2766/32750 (epoch 4.223), train_loss = 1.74728541, grad/param norm = 1.7764e-01, time/batch = 1.0144s	
+2767/32750 (epoch 4.224), train_loss = 2.06533546, grad/param norm = 2.1082e-01, time/batch = 1.2009s	
+2768/32750 (epoch 4.226), train_loss = 1.70784693, grad/param norm = 1.7372e-01, time/batch = 0.6610s	
+2769/32750 (epoch 4.227), train_loss = 1.74092478, grad/param norm = 1.8279e-01, time/batch = 0.6362s	
+2770/32750 (epoch 4.229), train_loss = 1.86135161, grad/param norm = 1.8816e-01, time/batch = 0.6364s	
+2771/32750 (epoch 4.231), train_loss = 1.93083724, grad/param norm = 2.2445e-01, time/batch = 0.6387s	
+2772/32750 (epoch 4.232), train_loss = 1.84669435, grad/param norm = 1.8628e-01, time/batch = 0.6677s	
