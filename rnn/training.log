@@ -1148,3 +1148,10 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_schoolincloud_epoch
 1095/29700 (epoch 1.843), train_loss = 1.87070424, grad/param norm = 3.0133e-01, time/batch = 17.3629s	
 1096/29700 (epoch 1.845), train_loss = 2.21661104, grad/param norm = 3.1775e-01, time/batch = 18.0639s	
 1097/29700 (epoch 1.847), train_loss = 2.04236890, grad/param norm = 2.9857e-01, time/batch = 15.2343s	
+1098/29700 (epoch 1.848), train_loss = 1.89730720, grad/param norm = 2.5519e-01, time/batch = 20.4431s	
+1099/29700 (epoch 1.850), train_loss = 1.71174179, grad/param norm = 2.9849e-01, time/batch = 1.4511s	
+1100/29700 (epoch 1.852), train_loss = 1.94439226, grad/param norm = 3.0402e-01, time/batch = 0.7046s	
+1101/29700 (epoch 1.854), train_loss = 1.94835033, grad/param norm = 3.1461e-01, time/batch = 0.6560s	
+1102/29700 (epoch 1.855), train_loss = 1.97620578, grad/param norm = 3.3784e-01, time/batch = 0.6503s	
+1103/29700 (epoch 1.857), train_loss = 2.05075920, grad/param norm = 3.2246e-01, time/batch = 0.6478s	
+1104/29700 (epoch 1.859), train_loss = 1.96188291, grad/param norm = 2.5568e-01, time/batch = 0.6461s	
