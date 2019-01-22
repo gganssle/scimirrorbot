@@ -16708,3 +16708,9 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_onlineoptimism_epoc
 16274/19950 (epoch 40.787), train_loss = 0.73299746, grad/param norm = 2.6947e-01, time/batch = 18.4837s	
 16275/19950 (epoch 40.789), train_loss = 0.83415155, grad/param norm = 2.2496e-01, time/batch = 17.8088s	
 16276/19950 (epoch 40.792), train_loss = 0.77292083, grad/param norm = 2.3208e-01, time/batch = 18.2001s	
+16277/19950 (epoch 40.794), train_loss = 0.81717007, grad/param norm = 2.7964e-01, time/batch = 9.1577s	
+/home/ubuntu/scimirrorbot/train_cron.sh: line 37: 28741 Killed                  th train.lua -data_dir $TRANDIR -batch_size 10 -gpuid -1 -checkpoint_dir $MODLDIR -savefile $TRNUSR
+
+real	2910m1.555s
+user	2886m52.968s
+sys	2m35.444s
