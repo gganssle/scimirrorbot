@@ -2750,3 +2750,9 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_lifehacker_epoch4.8
 2683/20800 (epoch 6.450), train_loss = 1.50253596, grad/param norm = 2.0462e-01, time/batch = 0.6817s	
 2684/20800 (epoch 6.452), train_loss = 1.57029199, grad/param norm = 1.9594e-01, time/batch = 0.6568s	
 2685/20800 (epoch 6.454), train_loss = 1.45431888, grad/param norm = 1.9614e-01, time/batch = 0.6826s	
+2686/20800 (epoch 6.457), train_loss = 1.67187317, grad/param norm = 2.0385e-01, time/batch = 1.6574s	
+2687/20800 (epoch 6.459), train_loss = 1.65420951, grad/param norm = 2.1999e-01, time/batch = 1.4145s	
+2688/20800 (epoch 6.462), train_loss = 1.61837865, grad/param norm = 2.0961e-01, time/batch = 0.9843s	
+2689/20800 (epoch 6.464), train_loss = 1.70527728, grad/param norm = 2.1139e-01, time/batch = 1.0684s	
+2690/20800 (epoch 6.466), train_loss = 1.80975243, grad/param norm = 2.2140e-01, time/batch = 1.3918s	
+2691/20800 (epoch 6.469), train_loss = 1.40803390, grad/param norm = 1.9500e-01, time/batch = 1.3865s	
