@@ -2668,3 +2668,8 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_wolframresearch_epo
 2581/30300 (epoch 4.259), train_loss = 1.63412192, grad/param norm = 1.7656e-01, time/batch = 0.6817s	
 2582/30300 (epoch 4.261), train_loss = 1.53218495, grad/param norm = 1.6970e-01, time/batch = 0.6947s	
 2583/30300 (epoch 4.262), train_loss = 1.66309552, grad/param norm = 1.8689e-01, time/batch = 0.6984s	
+2584/30300 (epoch 4.264), train_loss = 1.67544027, grad/param norm = 2.0847e-01, time/batch = 1.7482s	
+2585/30300 (epoch 4.266), train_loss = 1.58090944, grad/param norm = 1.9315e-01, time/batch = 1.4956s	
+2586/30300 (epoch 4.267), train_loss = 1.90084026, grad/param norm = 2.1173e-01, time/batch = 1.2539s	
+2587/30300 (epoch 4.269), train_loss = 1.42369176, grad/param norm = 1.7527e-01, time/batch = 1.1101s	
+2588/30300 (epoch 4.271), train_loss = 1.67770728, grad/param norm = 2.1766e-01, time/batch = 1.9396s	
