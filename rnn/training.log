@@ -2809,3 +2809,11 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_drewbrees_epoch3.17
 2718/31550 (epoch 4.307), train_loss = 1.73386532, grad/param norm = 1.8582e-01, time/batch = 1.0035s	
 2719/31550 (epoch 4.309), train_loss = 1.80423949, grad/param norm = 1.7983e-01, time/batch = 1.0975s	
 2720/31550 (epoch 4.311), train_loss = 1.69959400, grad/param norm = 1.9271e-01, time/batch = 1.4663s	
+2721/31550 (epoch 4.312), train_loss = 1.61481304, grad/param norm = 1.8331e-01, time/batch = 1.5308s	
+2722/31550 (epoch 4.314), train_loss = 1.80256488, grad/param norm = 1.9533e-01, time/batch = 1.5978s	
+2723/31550 (epoch 4.315), train_loss = 1.79965886, grad/param norm = 2.1199e-01, time/batch = 4.0550s	
+2724/31550 (epoch 4.317), train_loss = 1.79525271, grad/param norm = 1.9788e-01, time/batch = 9.6493s	
+2725/31550 (epoch 4.319), train_loss = 1.69183998, grad/param norm = 1.8339e-01, time/batch = 1.1542s	
+2726/31550 (epoch 4.320), train_loss = 1.63735829, grad/param norm = 1.8538e-01, time/batch = 1.1747s	
+2727/31550 (epoch 4.322), train_loss = 1.62066841, grad/param norm = 1.6918e-01, time/batch = 1.4204s	
+2728/31550 (epoch 4.323), train_loss = 1.72369935, grad/param norm = 1.8481e-01, time/batch = 1.5299s	
