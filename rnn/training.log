@@ -2844,3 +2844,11 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_hougeosoc_epoch5.14
 2779/19450 (epoch 7.144), train_loss = 1.32948232, grad/param norm = 2.3823e-01, time/batch = 1.0957s	
 2780/19450 (epoch 7.147), train_loss = 1.56677264, grad/param norm = 2.2468e-01, time/batch = 1.0170s	
 2781/19450 (epoch 7.149), train_loss = 1.44603719, grad/param norm = 2.2756e-01, time/batch = 1.9210s	
+2782/19450 (epoch 7.152), train_loss = 1.50423254, grad/param norm = 2.4846e-01, time/batch = 1.3830s	
+2783/19450 (epoch 7.154), train_loss = 1.16808061, grad/param norm = 2.2857e-01, time/batch = 1.9979s	
+2784/19450 (epoch 7.157), train_loss = 1.25403814, grad/param norm = 2.2031e-01, time/batch = 1.2772s	
+2785/19450 (epoch 7.159), train_loss = 1.55799985, grad/param norm = 2.3260e-01, time/batch = 1.2930s	
+2786/19450 (epoch 7.162), train_loss = 1.64473684, grad/param norm = 2.3379e-01, time/batch = 0.9826s	
+2787/19450 (epoch 7.165), train_loss = 1.61334109, grad/param norm = 2.6355e-01, time/batch = 0.9867s	
+2788/19450 (epoch 7.167), train_loss = 1.27565762, grad/param norm = 2.1862e-01, time/batch = 1.0331s	
+2789/19450 (epoch 7.170), train_loss = 1.29077492, grad/param norm = 2.1529e-01, time/batch = 1.9582s	
