@@ -2744,3 +2744,8 @@ saving checkpoint to /home/ubuntu/scimirrorbot/dat/models/lm_astro_timpeake_epoc
 2659/29400 (epoch 4.522), train_loss = 1.93445550, grad/param norm = 1.9513e-01, time/batch = 0.6645s	
 2660/29400 (epoch 4.524), train_loss = 1.78335803, grad/param norm = 2.1040e-01, time/batch = 0.6766s	
 2661/29400 (epoch 4.526), train_loss = 1.84400879, grad/param norm = 1.8968e-01, time/batch = 1.0583s	
+/home/ubuntu/scimirrorbot/train_cron.sh: line 37: 32262 Killed                  th train.lua -data_dir $TRANDIR -batch_size 10 -gpuid -1 -checkpoint_dir $MODLDIR -savefile $TRNUSR
+
+real	29m55.748s
+user	29m50.348s
+sys	0m1.468s
