@@ -2813,3 +2813,9 @@ decayed learning rate by a factor 0.97 to 0.001825346
 2763/10700 (epoch 12.911), train_loss = 1.39585705, grad/param norm = 2.4272e-01, time/batch = 0.6795s	
 2764/10700 (epoch 12.916), train_loss = 1.58945254, grad/param norm = 2.3601e-01, time/batch = 0.6616s	
 2765/10700 (epoch 12.921), train_loss = 1.59177429, grad/param norm = 2.3532e-01, time/batch = 0.6595s	
+2766/10700 (epoch 12.925), train_loss = 1.57570464, grad/param norm = 2.2742e-01, time/batch = 1.1802s	
+/home/ubuntu/scimirrorbot/train_cron.sh: line 37: 12391 Killed                  th train.lua -data_dir $TRANDIR -batch_size 10 -gpuid -1 -checkpoint_dir $MODLDIR -savefile $TRNUSR
+
+real	29m58.072s
+user	29m54.772s
+sys	0m1.252s
