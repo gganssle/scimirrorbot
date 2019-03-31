@@ -1,4 +1,3 @@
-astro_timpeake
 astrokarenn
 colin_furze
 sciam
