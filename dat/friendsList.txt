@@ -1,4 +1,3 @@
-sciam
 nolatechweek
 iss_casis
 jebbush
