@@ -9,36 +9,18 @@ saving /home/ubuntu/scimirrorbot/dat/training/data.t7
 loading data files...	
 cutting off end of data so that the batches/sequences divide evenly	
 reshaping tensor...	
-data load done. Number of data batches in train: 595, val: 32, test: 0	
-vocab size: 131	
+data load done. Number of data batches in train: 721, val: 38, test: 0	
+vocab size: 155	
 creating an lstm with 2 layers	
 setting forget gate biases to 1 in LSTM layer 1	
 setting forget gate biases to 1 in LSTM layer 2	
-number of parameters in the model: 282627	
+number of parameters in the model: 298011	
 cloning rnn	
 cloning criterion	
-1/29750 (epoch 0.002), train_loss = 4.88029995, grad/param norm = 6.1671e-01, time/batch = 0.7511s	
-2/29750 (epoch 0.003), train_loss = 4.46032066, grad/param norm = 1.9274e+00, time/batch = 0.6650s	
-3/29750 (epoch 0.005), train_loss = 3.67764857, grad/param norm = 1.1213e+00, time/batch = 0.6392s	
-4/29750 (epoch 0.007), train_loss = 3.42006055, grad/param norm = 9.8221e-01, time/batch = 0.6500s	
-5/29750 (epoch 0.008), train_loss = 3.39014352, grad/param norm = 7.6965e-01, time/batch = 0.6643s	
-6/29750 (epoch 0.010), train_loss = 3.35055637, grad/param norm = 6.0599e-01, time/batch = 0.6391s	
-7/29750 (epoch 0.012), train_loss = 3.40383777, grad/param norm = 5.3206e-01, time/batch = 0.6578s	
-8/29750 (epoch 0.013), train_loss = 3.36552328, grad/param norm = 5.7588e-01, time/batch = 0.6390s	
-9/29750 (epoch 0.015), train_loss = 3.42763526, grad/param norm = 6.6121e-01, time/batch = 0.6624s	
-10/29750 (epoch 0.017), train_loss = 3.29666380, grad/param norm = 9.5739e-01, time/batch = 0.6596s	
-11/29750 (epoch 0.018), train_loss = 3.43874239, grad/param norm = 7.6780e-01, time/batch = 0.8176s	
-12/29750 (epoch 0.020), train_loss = 3.36177590, grad/param norm = 5.0670e-01, time/batch = 0.6970s	
-13/29750 (epoch 0.022), train_loss = 3.28011905, grad/param norm = 7.3374e-01, time/batch = 0.7463s	
-14/29750 (epoch 0.024), train_loss = 3.38092553, grad/param norm = 8.5389e-01, time/batch = 0.8746s	
-15/29750 (epoch 0.025), train_loss = 3.29061007, grad/param norm = 5.7087e-01, time/batch = 0.7190s	
-16/29750 (epoch 0.027), train_loss = 3.23015078, grad/param norm = 4.6304e-01, time/batch = 0.7070s	
-17/29750 (epoch 0.029), train_loss = 3.27072598, grad/param norm = 5.9885e-01, time/batch = 0.7125s	
-18/29750 (epoch 0.030), train_loss = 3.27042715, grad/param norm = 6.6980e-01, time/batch = 0.7136s	
-19/29750 (epoch 0.032), train_loss = 3.27629273, grad/param norm = 8.0047e-01, time/batch = 1.6251s	
-20/29750 (epoch 0.034), train_loss = 3.35327258, grad/param norm = 6.5090e-01, time/batch = 29.6780s	
-/home/ubuntu/scimirrorbot/train_cron.sh: line 37: 10617 Killed                  th train.lua -data_dir $TRANDIR -batch_size 10 -gpuid -1 -checkpoint_dir $MODLDIR -savefile $TRNUSR
+1/36050 (epoch 0.001), train_loss = 5.06353173, grad/param norm = 5.9784e-01, time/batch = 0.8460s	
+2/36050 (epoch 0.003), train_loss = 4.69578109, grad/param norm = 1.8353e+00, time/batch = 1.4475s	
+/home/ubuntu/scimirrorbot/train_cron.sh: line 37: 23316 Killed                  th train.lua -data_dir $TRANDIR -batch_size 10 -gpuid -1 -checkpoint_dir $MODLDIR -savefile $TRNUSR
 
-real	0m55.810s
-user	0m14.900s
-sys	0m0.944s
+real	0m4.085s
+user	0m2.600s
+sys	0m0.220s
