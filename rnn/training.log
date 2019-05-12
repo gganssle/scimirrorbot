@@ -9,18 +9,16 @@ saving /home/ubuntu/scimirrorbot/dat/training/data.t7
 loading data files...	
 cutting off end of data so that the batches/sequences divide evenly	
 reshaping tensor...	
-data load done. Number of data batches in train: 721, val: 38, test: 0	
-vocab size: 155	
+data load done. Number of data batches in train: 666, val: 36, test: 0	
+vocab size: 166	
 creating an lstm with 2 layers	
 setting forget gate biases to 1 in LSTM layer 1	
 setting forget gate biases to 1 in LSTM layer 2	
-number of parameters in the model: 298011	
+number of parameters in the model: 305062	
 cloning rnn	
 cloning criterion	
-1/36050 (epoch 0.001), train_loss = 5.06353173, grad/param norm = 5.9784e-01, time/batch = 0.8460s	
-2/36050 (epoch 0.003), train_loss = 4.69578109, grad/param norm = 1.8353e+00, time/batch = 1.4475s	
-/home/ubuntu/scimirrorbot/train_cron.sh: line 37: 23316 Killed                  th train.lua -data_dir $TRANDIR -batch_size 10 -gpuid -1 -checkpoint_dir $MODLDIR -savefile $TRNUSR
+/home/ubuntu/scimirrorbot/train_cron.sh: line 37:  3524 Killed                  th train.lua -data_dir $TRANDIR -batch_size 10 -gpuid -1 -checkpoint_dir $MODLDIR -savefile $TRNUSR
 
-real	0m4.085s
-user	0m2.600s
-sys	0m0.220s
+real	0m2.549s
+user	0m1.840s
+sys	0m0.108s
