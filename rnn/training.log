@@ -9,22 +9,22 @@ saving /home/ubuntu/scimirrorbot/dat/training/data.t7
 loading data files...	
 cutting off end of data so that the batches/sequences divide evenly	
 reshaping tensor...	
-data load done. Number of data batches in train: 482, val: 26, test: 0	
-vocab size: 105	
+data load done. Number of data batches in train: 163, val: 9, test: 0	
+vocab size: 91	
 creating an lstm with 2 layers	
 setting forget gate biases to 1 in LSTM layer 1	
 setting forget gate biases to 1 in LSTM layer 2	
-number of parameters in the model: 265961	
+number of parameters in the model: 256987	
 cloning rnn	
 cloning criterion	
-1/24100 (epoch 0.002), train_loss = 4.64961867, grad/param norm = 5.5474e-01, time/batch = 0.7784s	
-2/24100 (epoch 0.004), train_loss = 4.24526098, grad/param norm = 1.6539e+00, time/batch = 0.6227s	
-3/24100 (epoch 0.006), train_loss = 3.68212170, grad/param norm = 1.1939e+00, time/batch = 0.6284s	
-4/24100 (epoch 0.008), train_loss = 3.42443303, grad/param norm = 8.9993e-01, time/batch = 0.6105s	
-5/24100 (epoch 0.010), train_loss = 3.48952128, grad/param norm = 1.0410e+00, time/batch = 0.6349s	
-6/24100 (epoch 0.012), train_loss = 3.45427479, grad/param norm = 5.2152e-01, time/batch = 0.6430s	
-/home/ubuntu/scimirrorbot/train_cron.sh: line 37: 16239 Killed                  th train.lua -data_dir $TRANDIR -batch_size 10 -gpuid -1 -checkpoint_dir $MODLDIR -savefile $TRNUSR
+1/8150 (epoch 0.006), train_loss = 4.51776096, grad/param norm = 6.5677e-01, time/batch = 0.7035s	
+2/8150 (epoch 0.012), train_loss = 4.10760557, grad/param norm = 1.8397e+00, time/batch = 0.6433s	
+3/8150 (epoch 0.018), train_loss = 3.43101332, grad/param norm = 1.3145e+00, time/batch = 0.5968s	
+4/8150 (epoch 0.025), train_loss = 3.25686397, grad/param norm = 9.8013e-01, time/batch = 0.6071s	
+5/8150 (epoch 0.031), train_loss = 3.10878120, grad/param norm = 9.2226e-01, time/batch = 0.6247s	
+6/8150 (epoch 0.037), train_loss = 3.12197085, grad/param norm = 6.7889e-01, time/batch = 0.6060s	
+/home/ubuntu/scimirrorbot/train_cron.sh: line 37: 28700 Killed                  th train.lua -data_dir $TRANDIR -batch_size 10 -gpuid -1 -checkpoint_dir $MODLDIR -savefile $TRNUSR
 
-real	0m6.486s
-user	0m5.236s
-sys	0m0.156s
+real	0m24.078s
+user	0m5.420s
+sys	0m0.404s
