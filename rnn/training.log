@@ -8,17 +8,15 @@ saving /home/ubuntu/scimirrorbot/dat/training/vocab.t7
 saving /home/ubuntu/scimirrorbot/dat/training/data.t7	
 loading data files...	
 cutting off end of data so that the batches/sequences divide evenly	
-reshaping tensor...	
-data load done. Number of data batches in train: 434, val: 23, test: 0	
-vocab size: 123	
-creating an lstm with 2 layers	
-setting forget gate biases to 1 in LSTM layer 1	
-setting forget gate biases to 1 in LSTM layer 2	
-number of parameters in the model: 277499	
-cloning rnn	
-cloning criterion	
-/home/ubuntu/scimirrorbot/train_cron.sh: line 37:  7212 Killed                  th train.lua -data_dir $TRANDIR -batch_size 10 -gpuid -1 -checkpoint_dir $MODLDIR -savefile $TRNUSR
+/home/ubuntu/torch/install/bin/luajit: ./util/CharSplitLMMinibatchLoader.lua:49: bad argument #2 to 'sub' (out of range at /home/ubuntu/torch/pkg/torch/generic/Tensor.c:304)
+stack traceback:
+	[C]: in function 'sub'
+	./util/CharSplitLMMinibatchLoader.lua:49: in function 'create'
+	train.lua:111: in main chunk
+	[C]: in function 'dofile'
+	...untu/torch/install/lib/luarocks/rocks/trepl/scm-1/bin/th:150: in main chunk
+	[C]: at 0x00405d50
 
-real	0m7.407s
-user	0m1.560s
-sys	0m0.172s
+real	0m0.314s
+user	0m0.080s
+sys	0m0.012s
