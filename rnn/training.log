@@ -17,6 +17,6 @@ stack traceback:
 	...untu/torch/install/lib/luarocks/rocks/trepl/scm-1/bin/th:150: in main chunk
 	[C]: at 0x00405d50
 
-real	0m0.824s
-user	0m0.084s
-sys	0m0.152s
+real	0m36.433s
+user	0m0.096s
+sys	0m1.488s

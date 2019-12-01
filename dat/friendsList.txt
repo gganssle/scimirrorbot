@@ -1,4 +1,3 @@
-nsf_geo
 orbitalatk
 gnofoundation
 astro_reid
